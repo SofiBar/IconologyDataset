@@ -60,13 +60,14 @@ c = alt.Chart(df4).mark_circle().encode(
 st.altair_chart(c, use_container_width=True)
 
 
-#st.heading("The graph visualized") 
+st.heading("The graph visualized") 
 
 # Create a graphlib graph object
-#graph = graphviz.Digraph()
-#graph.parse("210622_output2.ttl", format="ttl")
+graph = graphviz.Digraph()
+graph.parse("210622_output2.ttl", format="ttl")
 
-#st.graphviz_chart(graph)
+st.graphviz_chart(graph)
+
 st.write("Here we try to visualize some data queried from the Blazegraph endpoint")
 
 server = sparql.SPARQLServer('http://127.0.0.1:9999/bigdata/sparql')
