@@ -6,7 +6,7 @@ import pandas as pd
 import altair as alt
 # !pip install pymantic
 from pymantic import sparql
-from graphviz import graphviz # not working
+import graphviz # not working
 
 st.title("Data analysis of the Panofsky dataset")
 
