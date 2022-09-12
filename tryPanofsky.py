@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-!pip install graphviz
+pip install graphviz
 import graphviz as graphviz
 
 st.title("Data analysis of the Panofsky dataset")
