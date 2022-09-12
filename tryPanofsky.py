@@ -27,6 +27,6 @@ df3 = data3.sort_values(by=['Date'])
 
 
 c = alt.Chart(df3).mark_circle().encode(
-     x='Century', y='Attribute', size='Frequency', tooltip=['Century', 'Attribute', 'Frequency'])
+     x='Century', y='Artwork', size='Level1Representation', tooltip=['Century', 'Attribute', 'Frequency'])
 
 st.altair_chart(c, use_container_width=True)
