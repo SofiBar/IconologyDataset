@@ -3,6 +3,7 @@
 
 import streamlit as st
 import pandas as pd
+import altair as alt
 
 data = pd.read_csv("mercury_attr_time4.csv")
 # print the first 5 rows
@@ -20,5 +21,12 @@ st.write("Here's another example with Cupid")
 st.write(df2)
 
 
-# to do: try a scatterplot visualization with mercury_final.csv
+# to do: try a scatterplot visualization with mercury_mercury_final.csv
+data3 = pd.read_csv("mercury_mercury_final.csv")
+df3 = data3.sort_values(by=['Date'])
 
+
+c = alt.Chart(df3).mark_circle().encode(
+     x='Century', y='Attribute', size='Frequency', tooltip=['Century', 'Attribute', 'Frequency'])
+
+st.altair_chart(c, use_container_width=True)
