@@ -39,12 +39,19 @@ def load_data(nrows):
     data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
     return data
 
+# Create a text element and let the reader know the data is loading.
+data_load_state = st.text('Loading data...')
+# Load 10,000 rows of data into the dataframe.
+data = load_data(10000)
+# Notify the reader that the data was successfully loaded.
+data_load_state.text('Loading data...done!')
+
 
 st.write("here we try to do a bubbleplot visualization")
 data3 = pd.read_csv("mercury_mercury_final.csv")
 df3 = data3.sort_values(by=['Date'])
-df4 = df3['Level1Representation'].astype('int')
-
+#df4 = df3['Level1Representation'].astype('int')
+df4 = pd.DataFrame(df3)
 
 c = alt.Chart(df4).mark_circle().encode(
      x='Century', y='Artwork', size='Level1Representation', tooltip=['Century', 'Attribute', 'Frequency'])
