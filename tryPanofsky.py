@@ -60,7 +60,7 @@ c = alt.Chart(df4).mark_circle().encode(
 st.altair_chart(c, use_container_width=True)
 
 
-st.heading("The graph visualized") 
+st.write("The graph visualized") 
 
 # Create a graphlib graph object
 graph = graphviz.Digraph()
