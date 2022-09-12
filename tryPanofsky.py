@@ -54,7 +54,7 @@ df3 = data3.sort_values(by=['Date'])
 df4 = pd.DataFrame(df3)
 
 c = alt.Chart(df4).mark_circle().encode(
-     x='Century', y='Artwork', size='Level1Representation', tooltip=['Century', 'Attribute', 'Frequency'])
+     x='Century', y='Artwork', size='Level1Representation') # , tooltip=['Century', 'Attribute', 'Frequency']
 
 st.altair_chart(c, use_container_width=True)
 
