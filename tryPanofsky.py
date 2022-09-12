@@ -4,8 +4,8 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-!pip install graphviz
-import graphviz as graphviz
+# !pip install graphviz
+# import graphviz as graphviz
 
 st.title("Data analysis of the Panofsky dataset")
 
@@ -52,10 +52,10 @@ c = alt.Chart(df4).mark_circle().encode(
 st.altair_chart(c, use_container_width=True)
 
 
-st.heading("The graph visualized")
+#st.heading("The graph visualized")
 
 # Create a graphlib graph object
-graph = graphviz.Digraph()
-graph.parse("210622_output2.ttl", format="ttl")
+#graph = graphviz.Digraph()
+#graph.parse("210622_output2.ttl", format="ttl")
 
-st.graphviz_chart(graph)
+#st.graphviz_chart(graph)
