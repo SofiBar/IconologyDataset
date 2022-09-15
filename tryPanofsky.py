@@ -1,5 +1,12 @@
 # click on the arrow, select apri terminale
 # use the python -m streamlit run tryPanofsky.py command: it works better
+import rdflib
+from rdflib.namespace import CSVW, DC, DCAT, DCTERMS, DOAP, FOAF, ODRL2, ORG, OWL, \
+                           PROF, PROV, RDF, RDFS, SDO, SH, SKOS, SOSA, SSN, TIME, \
+                           VOID, XMLNS, XSD
+from rdflib import Namespace
+from rdflib import URIRef
+
 
 import streamlit as st
 import pandas as pd
@@ -63,9 +70,9 @@ st.altair_chart(c, use_container_width=True)
 st.write("The graph visualized") 
 
 # Create a graphlib graph object
-g= Graph()
+g= rdflib.Graph()
 g.parse("210622_output2.ttl", format="ttl")
-#graph = graphviz.Digraph(g)
+#graph = graphviz.Digraph()
 
 st.graphviz_chart(g)
 
