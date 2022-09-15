@@ -87,6 +87,7 @@ server = sparql.SPARQLServer('http://127.0.0.1:9999/bigdata/sparql')
 
 #Loading data to Blazegraph
 # error: HTTPConnectionPool(host='127.0.0.1', port=9999): Max retries exceeded with url: /bigdata/sparql (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f00d0417f10>: Failed to establish a new connection: [Errno 111] Connection refused')) 
+# look for some useful info: https://github.com/aws/graph-notebook/issues/45 
 
 # server.update('load <file:///210622_output2.ttl>')
 people_result = []
