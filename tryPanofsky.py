@@ -78,6 +78,7 @@ st.altair_chart(c, use_container_width=True)
 
 st.write("subject level 1 and 2 frequency per cultural phenomenon") 
 df6 = pd.read_csv("subj_frequency_per_cf.csv")
+df6.sort_values(by=['Cultural Phenomenon'])
 st.write(df6)
 
 st.write("Here we try to visualize some data queried from the Blazegraph endpoint")
