@@ -96,11 +96,13 @@ result = server.query(
 PREFIX icon: <https://w3id.org/icon/ontology/>
 PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
 
-SELECT (count(distinct ?people) as ?tot) WHERE {
+SELECT distinct (?rel) WHERE {
 
-?people a crm:E21_Person. 
+d:ART1001 ?rel ?o. 
 
-}""")
+}
+
+""")
 for b in result['results']['bindings']:
     people_result.append(b["people"]["value"])
 d = {'col1': "People", 'col2': people_result[0]}
