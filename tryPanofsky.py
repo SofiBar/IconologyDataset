@@ -67,14 +67,14 @@ c = alt.Chart(df4).mark_circle().encode(
 st.altair_chart(c, use_container_width=True)
 
 
-st.write("The graph visualized") 
+# st.write("The graph visualized") 
 
 # Create a graphlib graph object
-g= rdflib.Graph()
-g.parse("210622_output2.ttl", format="ttl")
+# g= rdflib.Graph()
+# g.parse("210622_output2.ttl", format="ttl")
 #graph = graphviz.Digraph()
 
-st.graphviz_chart(g)
+# st.graphviz_chart(g)
 
 st.write("Here we try to visualize some data queried from the Blazegraph endpoint")
 
