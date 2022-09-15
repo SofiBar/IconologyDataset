@@ -63,10 +63,11 @@ st.altair_chart(c, use_container_width=True)
 st.write("The graph visualized") 
 
 # Create a graphlib graph object
-graph = graphviz.Digraph()
-graph.parse("210622_output2.ttl", format="ttl")
+g= Graph()
+g.parse("210622_output2.ttl", format="ttl")
+#graph = graphviz.Digraph(g)
 
-st.graphviz_chart(graph)
+st.graphviz_chart(g)
 
 st.write("Here we try to visualize some data queried from the Blazegraph endpoint")
 
@@ -92,3 +93,8 @@ d = {'col1': "People", 'col2': people_result[0]}
 df5 = pd.DataFrame(d)    
 
 st.write(df5)
+
+
+st.write("subject level 1 and 2 frequency per cultural phenomenon") 
+df6 = pd.read_csv("subj_frequency_per_cf.csv")
+st.write(df6)
