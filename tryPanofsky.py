@@ -84,11 +84,11 @@ st.write("Here we try to visualize some data queried from the Blazegraph endpoin
 
 server = sparql.SPARQLServer('http://127.0.0.1:9999/bigdata/sparql')
 
- Loading data to Blazegraph
- server.update('load <file:///210622_output2.ttl>')
+#Loading data to Blazegraph
+server.update('load <file:///210622_output2.ttl>')
 people_result = []
 # Executing query
- result = server.query(
+result = server.query(
          """PREFIX d: <http://icondataset.org/> 
 PREFIX icon: <https://w3id.org/icon/ontology/>
 PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
