@@ -1,0 +1,1770 @@
+@prefix cito: <http://purl.org/spar/cito/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix d: <http://icondataset.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sim: <https://w3id.org/simulation/ontology/> .
+
+d:a-pair-of-masks-one-of-a-young-woman-the-other-of-a-old-malevolent-man-worldliness-insincerity-falsehood a sim:Simulation ;
+    rdfs:label "a pair of masks, one of a young woman, the other of a old malevolent man-worldliness, insincerity, falsehood" ;
+    cito:citesAsEvidence d:1151bibl-content ;
+    sim:hasRealityCounterpart d:worldliness-insincerity-falsehood ;
+    sim:hasSimulacrum d:a-pair-of-masks-one-of-a-young-woman-the-other-of-a-old-malevolent-man ;
+    sim:hasSimulationType d:symbolic .
+
+d:angel-smiling-while-carrying-the-coffin-of-the-pope-angel-glad-that-the-soul-of-the-pope-had-been-received-among-the-blessed-spirits a sim:Simulation ;
+    rdfs:label "Angel smiling while carrying the coffin of the Pope-angel glad that the soul of the Pope had been received among the blessed spirits" ;
+    cito:citesAsEvidence d:1164bibl-content ;
+    sim:hasRealityCounterpart d:angel-glad-that-the-soul-of-the-pope-had-been-received-among-the-blessed-spirits ;
+    sim:hasSimulacrum d:angel-smiling-while-carrying-the-coffin-of-the-pope ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:angel-wepting-while-carrying-the-coffin-of-the-pope-angel-grieved-that-the-world-had-been-deprived-of-such-a-man a sim:Simulation ;
+    rdfs:label "Angel wepting while carrying the coffin of the Pope-angel grieved that the world had been deprived of such a man" ;
+    cito:citesAsEvidence d:1164bibl-content ;
+    sim:hasRealityCounterpart d:angel-grieved-that-the-world-had-been-deprived-of-such-a-man ;
+    sim:hasSimulacrum d:angel-wepting-while-carrying-the-coffin-of-the-pope ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:ape-everything-subhuman-in-man-lust-greed-gluttony-shamelessness a sim:Simulation ;
+    rdfs:label "Ape-everything subhuman in man (lust, greed, gluttony, shamelessness)" ;
+    sim:hasRealityCounterpart d:everything-subhuman-in-man-lust-greed-gluttony-shamelessness ;
+    sim:hasSimulacrum d:ape ;
+    sim:hasSimulationType d:symbolic .
+
+d:ape-lower-soul a sim:Simulation ;
+    rdfs:label "Ape-lower soul" ;
+    sim:hasRealityCounterpart d:lower-soul ;
+    sim:hasSimulacrum d:ape ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:apollo-idolatry a sim:Simulation ;
+    rdfs:label "Apollo-Idolatry" ;
+    sim:hasRealityCounterpart d:idolatry ;
+    sim:hasSimulacrum d:apollo ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:arciers-without-arrows-tools-of-a-force-beyond-their-will-and-consciousness a sim:Simulation ;
+    rdfs:label "arciers without arrows-tools of a force beyond their will and consciousness" ;
+    sim:hasRealityCounterpart d:tools-of-a-force-beyond-their-will-and-consciousness ;
+    sim:hasSimulacrum d:arciers-without-arrows ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:bacchus-folly a sim:Simulation ;
+    rdfs:label "Bacchus-Folly" ;
+    sim:hasRealityCounterpart d:folly ;
+    sim:hasSimulacrum d:bacchus ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:bat-melancholy a sim:Simulation ;
+    rdfs:label "bat-melancholy" ;
+    cito:citesAsEvidence d:1257ext ;
+    sim:hasRealityCounterpart d:melancholy ;
+    sim:hasSimulacrum d:bat ;
+    sim:hasSimulationType d: .
+
+d:bear-anger a sim:Simulation ;
+    rdfs:label "bear-anger" ;
+    cito:citesAsEvidence d:1151bibl-content ;
+    sim:hasRealityCounterpart d:anger ;
+    sim:hasSimulacrum d:bear ;
+    sim:hasSimulationType d: .
+
+d:blind-fortune-blindfolding-cupid-and-putting-him-on-a-sphere-affection-changes-with-luck a sim:Simulation ;
+    rdfs:label "Blind Fortune blindfolding Cupid and putting him on a sphere-affection changes with luck" ;
+    sim:hasRealityCounterpart d:affection-changes-with-luck ;
+    sim:hasSimulacrum d:blind-fortune-blindfolding-cupid-and-putting-him-on-a-sphere ;
+    sim:hasSimulationContext d:allegorical ;
+    sim:hasSimulationType d:allegorical .
+
+d:blowing-in-a-cone-shell-generating-panic-terror a sim:Simulation ;
+    rdfs:label "blowing in a cone shell-generating panic terror" ;
+    cito:citesAsEvidence d:1153bibl-content ;
+    sim:hasRealityCounterpart d:generating-panic-terror ;
+    sim:hasSimulacrum d:blowing-in-a-cone-shell ;
+    sim:hasSimulationType d: .
+
+d:blowing-in-a-tube-fertilising a sim:Simulation ;
+    rdfs:label "blowing in a tube-fertilising" ;
+    sim:hasRealityCounterpart d:fertilising ;
+    sim:hasSimulacrum d:blowing-in-a-tube ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:blue-hue-of-heaven a sim:Simulation ;
+    rdfs:label "blue-hue of heaven" ;
+    sim:hasRealityCounterpart d:hue-of-heaven ;
+    sim:hasSimulacrum d:blue ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:book-attribute-of-wisdom a sim:Simulation ;
+    rdfs:label "book-attribute of wisdom" ;
+    cito:citesAsEvidence d:1151bibl-content ;
+    sim:hasRealityCounterpart d:attribute-of-wisdom ;
+    sim:hasSimulacrum d:book ;
+    sim:hasSimulationType d: .
+
+d:branches-of-a-tree-antidotes-against-sexual-passion-marriage-prayer-business-abstinence a sim:Simulation ;
+    rdfs:label "branches of a tree-antidotes against sexual passion (Marriage, Prayer, Business, Abstinence)" ;
+    sim:hasRealityCounterpart d:antidotes-against-sexual-passion-marriage-prayer-business-abstinence ;
+    sim:hasSimulacrum d:branches-of-a-tree ;
+    sim:hasSimulationType d:symbolic .
+
+d:bull-christ a sim:Simulation ;
+    rdfs:label "Bull-Christ" ;
+    sim:hasRealityCounterpart d:christ ;
+    sim:hasSimulacrum d:bull ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:bundle-of-sticks-unity a sim:Simulation ;
+    rdfs:label "bundle of sticks-unity" ;
+    sim:hasRealityCounterpart d:unity ;
+    sim:hasSimulacrum d:bundle-of-sticks ;
+    sim:hasSimulationType d:symbolic .
+
+d:cameo-with-a-pair-of-winged-horses-and-a-charioteer-platos-immortal-comparison-of-the-human-soul a sim:Simulation ;
+    rdfs:label "Cameo with a pair of winged horses and a charioteer-Plato's immortal comparison of the human soul" ;
+    sim:hasRealityCounterpart d:platos-immortal-comparison-of-the-human-soul ;
+    sim:hasSimulacrum d:cameo-with-a-pair-of-winged-horses-and-a-charioteer ;
+    sim:hasSimulationContext d:allusionsimulation ;
+    sim:hasSimulationType d:allusionsimulation .
+
+d:carrying-on-shoulders-saving-souls a sim:Simulation ;
+    rdfs:label "carrying on shoulders-saving souls" ;
+    sim:hasRealityCounterpart d:saving-souls ;
+    sim:hasSimulacrum d:carrying-on-shoulders ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:celestial-fire-carried-by-the-torch-of-prometheus-clarity-of-knowledge-infused-into-the-heart-of-the-ignorant-that-can-be-attained-at-the-expense-of-happiness-and-peace-of-mind a sim:Simulation ;
+    rdfs:label "celestial fire carried by the torch of Prometheus-clarity of knowledge infused into the heart of the ignorant that can be attained at the expense of happiness and peace of mind" ;
+    cito:citesAsEvidence d:1180bibl-content,
+        d:1180bibl-content-iv-44 ;
+    sim:hasRealityCounterpart d:clarity-of-knowledge-infused-into-the-heart-of-the-ignorant-that-can-be-attained-at-the-expense-of-happiness-and-peace-of-mind ;
+    sim:hasSimulacrum d:celestial-fire-carried-by-the-torch-of-prometheus ;
+    sim:hasSimulationType d: .
+
+d:central-zone-of-the-tomb-realm-of-nature-the-only-sphere-subject-to-time a sim:Simulation ;
+    rdfs:label "central zone of the tomb-realm of Nature (the only sphere subject to time)" ;
+    sim:hasRealityCounterpart d:realm-of-nature-the-only-sphere-subject-to-time ;
+    sim:hasSimulacrum d:central-zone-of-the-tomb ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:chain-with-a-heart-good-counsel-coming-from-heart a sim:Simulation ;
+    rdfs:label "chain with a heart-good counsel coming from heart" ;
+    cito:citesAsEvidence d:1151bibl-content ;
+    sim:hasRealityCounterpart d:good-counsel-coming-from-heart ;
+    sim:hasSimulacrum d:chain-with-a-heart ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:children-crouching-down-unborn-souls-doomed-to-descend-to-the-lower-spheres a sim:Simulation ;
+    rdfs:label "children crouching down-unborn souls doomed to descend to the lower spheres" ;
+    sim:hasRealityCounterpart d:unborn-souls-doomed-to-descend-to-the-lower-spheres ;
+    sim:hasSimulacrum d:children-crouching-down ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:closed-cash-box-saturninian-parsimony a sim:Simulation ;
+    rdfs:label "closed cash box-Saturninian parsimony" ;
+    sim:hasRealityCounterpart d:saturninian-parsimony ;
+    sim:hasSimulacrum d:closed-cash-box ;
+    sim:hasSimulationType d:symbolic .
+
+d:cone-shell-fertility a sim:Simulation ;
+    rdfs:label "cone shell-fertility" ;
+    sim:hasRealityCounterpart d:fertility ;
+    sim:hasSimulacrum d:cone-shell ;
+    sim:hasSimulationType d: .
+
+d:cone-shell-panic a sim:Simulation ;
+    rdfs:label "cone shell-panic" ;
+    cito:citesAsEvidence d:1153bibl-content ;
+    sim:hasRealityCounterpart d:panic ;
+    sim:hasSimulacrum d:cone-shell ;
+    sim:hasSimulationType d: .
+
+d:cupid-amor-carnalis a sim:Simulation ;
+    rdfs:label "Cupid-amor carnalis" ;
+    sim:hasRealityCounterpart d:amor-carnalis ;
+    sim:hasSimulacrum d:cupid ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:cupid-between-venus-coelestis-and-venus-vulgaris-love-acts-as-an-intermediary-between-heaven-and-earth a sim:Simulation ;
+    rdfs:label "Cupid between Venus Coelestis and Venus Vulgaris-love acts as an intermediary between heaven and earth" ;
+    cito:citesAsEvidence d:1181bibl-content ;
+    sim:hasRealityCounterpart d:love-acts-as-an-intermediary-between-heaven-and-earth ;
+    sim:hasSimulacrum d:cupid-between-venus-coelestis-and-venus-vulgaris ;
+    sim:hasSimulationContext d:allegorical ;
+    sim:hasSimulationType d:allegorical .
+
+d:cupid-unblindfolding-himself-cupid-transforming-himself-from-a-personification-of-blind-ignoble-love-to-an-exponent-of-seeing-platonic-love a sim:Simulation ;
+    rdfs:label "Cupid unblindfolding himself-Cupid transforming himself from a personification of blind, ignoble love to an exponent of seeing, platonic love" ;
+    sim:hasRealityCounterpart d:cupid-transforming-himself-from-a-personification-of-blind-ignoble-love-to-an-exponent-of-seeing-platonic-love ;
+    sim:hasSimulacrum d:cupid-unblindfolding-himself ;
+    sim:hasSimulationType d: .
+
+d:deer-souls a sim:Simulation ;
+    rdfs:label "deer-souls" ;
+    sim:hasRealityCounterpart d:souls ;
+    sim:hasSimulacrum d:deer ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:dog-envy a sim:Simulation ;
+    rdfs:label "dog-envy" ;
+    sim:hasRealityCounterpart d:envy ;
+    sim:hasSimulacrum d:dog ;
+    sim:hasSimulationType d: .
+
+d:dolphin-haste a sim:Simulation ;
+    rdfs:label "dolphin-haste" ;
+    cito:citesAsEvidence d:1151bibl-content ;
+    sim:hasRealityCounterpart d:haste ;
+    sim:hasSimulacrum d:dolphin ;
+    sim:hasSimulationType d: .
+
+d:dolphin-persuasion a sim:Simulation ;
+    rdfs:label "dolphin-persuasion" ;
+    sim:hasRealityCounterpart d:persuasion ;
+    sim:hasSimulacrum d:dolphin ;
+    sim:hasSimulationType d: .
+
+d:dove-holy-spirit a sim:Simulation ;
+    rdfs:label "dove-Holy Spirit" ;
+    sim:hasRealityCounterpart d:holy-spirit ;
+    sim:hasSimulacrum d:dove ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:dragon-biting-its-tail-time a sim:Simulation ;
+    rdfs:label "dragon biting its tail-time" ;
+    sim:hasRealityCounterpart d:time ;
+    sim:hasSimulacrum d:dragon-biting-its-tail ;
+    sim:hasSimulationType d: .
+
+d:dragoon-devil a sim:Simulation ;
+    rdfs:label "dragoon-devil" ;
+    sim:hasRealityCounterpart d:devil ;
+    sim:hasSimulacrum d:dragoon ;
+    sim:hasSimulationType d: .
+
+d:draped-ganymede-raped-by-the-eagle-so-that-he-is-not-hurt-by-the-eagles-talons-perfect-harmony-of-soul-and-body a sim:Simulation ;
+    rdfs:label "Draped Ganymede raped by the eagle, so that he is not hurt by the eagle's talons-perfect harmony of soul and body" ;
+    sim:hasRealityCounterpart d:perfect-harmony-of-soul-and-body ;
+    sim:hasSimulacrum d:draped-ganymede-raped-by-the-eagle-so-that-he-is-not-hurt-by-the-eagles-talons ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:dressed-girl-heavenly-life a sim:Simulation ;
+    rdfs:label "dressed girl-Heavenly Life" ;
+    sim:hasRealityCounterpart d:heavenly-life ;
+    sim:hasSimulacrum d:dressed-girl ;
+    sim:hasSimulationType d: .
+
+d:empty-throne-invisible-presence-of-an-immortal a sim:Simulation ;
+    rdfs:label "empty throne-invisible presence of an immortal" ;
+    sim:hasRealityCounterpart d:invisible-presence-of-an-immortal ;
+    sim:hasSimulacrum d:empty-throne ;
+    sim:hasSimulationType d:symbolic .
+
+d:europa-human-soul a sim:Simulation ;
+    rdfs:label "Europa-human soul" ;
+    sim:hasRealityCounterpart d:human-soul ;
+    sim:hasSimulacrum d:europa ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:face-of-a-young-man-the-future a sim:Simulation ;
+    rdfs:label "face of a young man-the future" ;
+    sim:hasRealityCounterpart d:the-future ;
+    sim:hasSimulacrum d:face-of-a-young-man ;
+    sim:hasSimulationContext d:allegoricalsimulation ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:face-of-a-young-woman-the-future a sim:Simulation ;
+    rdfs:label "face of a young woman-the future" ;
+    sim:hasRealityCounterpart d:the-future ;
+    sim:hasSimulacrum d:face-of-a-young-woman ;
+    sim:hasSimulationContext d:allegoricalsimulation ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:face-of-an-adult-man-the-present a sim:Simulation ;
+    rdfs:label "face of an adult man-the present" ;
+    sim:hasRealityCounterpart d:the-present ;
+    sim:hasSimulacrum d:face-of-an-adult-man ;
+    sim:hasSimulationContext d:allegoricalsimulation ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:face-of-an-adult-woman-the-present a sim:Simulation ;
+    rdfs:label "face of an adult woman-the present" ;
+    sim:hasRealityCounterpart d:the-present ;
+    sim:hasSimulacrum d:face-of-an-adult-woman ;
+    sim:hasSimulationContext d:allegoricalsimulation ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:face-of-an-old-man-the-past a sim:Simulation ;
+    rdfs:label "face of an old man-the past" ;
+    sim:hasRealityCounterpart d:the-past ;
+    sim:hasSimulacrum d:face-of-an-old-man ;
+    sim:hasSimulationContext d:allegoricalsimulation ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:face-of-an-old-woman-the-past a sim:Simulation ;
+    rdfs:label "face of an old woman-the past" ;
+    sim:hasRealityCounterpart d:the-past ;
+    sim:hasSimulacrum d:face-of-an-old-woman ;
+    sim:hasSimulationContext d:allegoricalsimulation ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:family-simple-happiness-of-primitive-civilization a sim:Simulation ;
+    rdfs:label "family-simple happiness of primitive civilization" ;
+    sim:hasRealityCounterpart d:simple-happiness-of-primitive-civilization ;
+    sim:hasSimulacrum d:family ;
+    sim:hasSimulationType d: .
+
+d:feathers-months a sim:Simulation ;
+    rdfs:label "feathers-months" ;
+    sim:hasRealityCounterpart d:months ;
+    sim:hasSimulacrum d:feathers ;
+    sim:hasSimulationType d: .
+
+d:fettered-ape-blind-and-unhappy-human-soul a sim:Simulation ;
+    rdfs:label "Fettered ape-blind and unhappy human soul" ;
+    sim:hasRealityCounterpart d:blind-and-unhappy-human-soul ;
+    sim:hasSimulacrum d:fettered-ape ;
+    sim:hasSimulationType d: .
+
+d:fettered-ape-subjugation-of-base-emotions a sim:Simulation ;
+    rdfs:label "Fettered ape-subjugation of base emotions" ;
+    sim:hasRealityCounterpart d:subjugation-of-base-emotions ;
+    sim:hasSimulacrum d:fettered-ape ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:fettered-slave-human-soul-in-so-far-as-it-is-devoid-of-freedom a sim:Simulation ;
+    rdfs:label "Fettered slave-human soul in so far as it is devoid of freedom" ;
+    sim:hasRealityCounterpart d:human-soul-in-so-far-as-it-is-devoid-of-freedom ;
+    sim:hasSimulacrum d:fettered-slave ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:fettered-slave-unregenerated-human-soul-held-in-bondage-by-its-natural-desires a sim:Simulation ;
+    rdfs:label "Fettered slave-unregenerated human soul held in bondage by its natural desires" ;
+    sim:hasRealityCounterpart d:unregenerated-human-soul-held-in-bondage-by-its-natural-desires ;
+    sim:hasSimulacrum d:fettered-slave ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:fire-fire-to-burn-the-time a sim:Simulation ;
+    rdfs:label "fire-fire to burn the time" ;
+    sim:hasRealityCounterpart d:fire-to-burn-the-time ;
+    sim:hasSimulacrum d:fire ;
+    sim:hasSimulationType d:function .
+
+d:fire-luxury a sim:Simulation ;
+    rdfs:label "fire-luxury" ;
+    sim:hasRealityCounterpart d:luxury ;
+    sim:hasSimulacrum d:fire ;
+    sim:hasSimulationType d: .
+
+d:fly-decade a sim:Simulation ;
+    rdfs:label "fly-decade" ;
+    sim:hasRealityCounterpart d:decade ;
+    sim:hasSimulacrum d:fly ;
+    sim:hasSimulationType d:symbolicsimulation .
+
+d:flying-towards-marys-head-to-fertilise a sim:Simulation ;
+    rdfs:label "flying towards Mary's head-to fertilise" ;
+    sim:hasRealityCounterpart d:to-fertilise ;
+    sim:hasSimulacrum d:flying-towards-marys-head ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:four-rivers-of-hades-four-elements-air-fire-earth-water a sim:Simulation ;
+    rdfs:label "four rivers of Hades-four elements (air, fire, earth, water)" ;
+    cito:citesAsEvidence d:1170bibl-content,
+        d:1170bibl-content-inferno-xiv-116-folixxiv ;
+    sim:hasRealityCounterpart d:four-elements-air-fire-earth-water ;
+    sim:hasSimulacrum d:four-rivers-of-hades ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:four-rivers-of-hades-fourfold-aspect-of-matter-as-a-source-of-potential-evil a sim:Simulation ;
+    rdfs:label "four rivers of Hades-fourfold aspect of matter as a source of potential evil" ;
+    cito:citesAsEvidence d:1170bibl-content,
+        d:1170bibl-content-inferno-xiv-116-folixxiv ;
+    sim:hasRealityCounterpart d:fourfold-aspect-of-matter-as-a-source-of-potential-evil ;
+    sim:hasSimulacrum d:four-rivers-of-hades ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:four-times-of-day-four-humours a sim:Simulation ;
+    rdfs:label "four Times of Day-four humours" ;
+    sim:hasRealityCounterpart d:four-humours ;
+    sim:hasSimulacrum d:four-times-of-day ;
+    sim:hasSimulationType d: .
+
+d:four-times-of-day-fourfold-aspect-of-life-on-earth-as-a-state-of-actual-suffering a sim:Simulation ;
+    rdfs:label "four Times of Day-fourfold aspect of life on earth as a state of actual suffering" ;
+    sim:hasRealityCounterpart d:fourfold-aspect-of-life-on-earth-as-a-state-of-actual-suffering ;
+    sim:hasSimulacrum d:four-times-of-day ;
+    sim:hasSimulationType d:fourfold-aspect-of-life-on-earth-as-a-state-of-actual-suffering .
+
+d:four-times-of-day-realm-of-nature a sim:Simulation ;
+    rdfs:label "four Times of Day-realm of Nature" ;
+    sim:hasRealityCounterpart d:realm-of-nature ;
+    sim:hasSimulacrum d:four-times-of-day ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:four-wings-four-seasons a sim:Simulation ;
+    rdfs:label "four wings-four seasons" ;
+    sim:hasRealityCounterpart d:four-seasons ;
+    sim:hasSimulacrum d:four-wings ;
+    sim:hasSimulationType d: .
+
+d:ganymede-ascending-to-heaven-on-the-wings-of-an-eagle-ecstasy-of-platonic-love a sim:Simulation ;
+    rdfs:label "Ganymede ascending to Heaven on the wings of an eagle-ecstasy of Platonic love" ;
+    sim:hasRealityCounterpart d:ecstasy-of-platonic-love ;
+    sim:hasSimulacrum d:ganymede-ascending-to-heaven-on-the-wings-of-an-eagle ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:glass-sphere-god a sim:Simulation ;
+    rdfs:label "glass sphere-God" ;
+    sim:hasRealityCounterpart d:god ;
+    sim:hasSimulacrum d:glass-sphere ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:glass-sphere-harmony-that-can-be-easily-broken a sim:Simulation ;
+    rdfs:label "glass sphere-harmony that can be easily broken" ;
+    sim:hasRealityCounterpart d:harmony-that-can-be-easily-broken ;
+    sim:hasSimulacrum d:glass-sphere ;
+    sim:hasSimulationType d:symbolic .
+
+d:glass-sphere-heaven a sim:Simulation ;
+    rdfs:label "glass sphere-heaven" ;
+    sim:hasRealityCounterpart d:heaven ;
+    sim:hasSimulacrum d:glass-sphere ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:hares-animal-love-fertility a sim:Simulation ;
+    rdfs:label "hares-animal love, fertility" ;
+    sim:hasRealityCounterpart d:animal-love-fertility ;
+    sim:hasSimulacrum d:hares ;
+    sim:hasSimulationType d:symbolic .
+
+d:head-of-a-dog-the-future a sim:Simulation ;
+    rdfs:label "head of a dog-the future" ;
+    sim:hasRealityCounterpart d:the-future ;
+    sim:hasSimulacrum d:head-of-a-dog ;
+    sim:hasSimulationType d: .
+
+d:head-of-a-lion-the-present a sim:Simulation ;
+    rdfs:label "head of a lion-the present" ;
+    sim:hasRealityCounterpart d:the-present ;
+    sim:hasSimulacrum d:head-of-a-lion ;
+    sim:hasSimulationType d: .
+
+d:head-of-a-wolf-the-past a sim:Simulation ;
+    rdfs:label "head of a wolf-the past" ;
+    sim:hasRealityCounterpart d:the-past ;
+    sim:hasSimulacrum d:head-of-a-wolf ;
+    sim:hasSimulationType d: .
+
+d:hercules-egypt a sim:Simulation ;
+    rdfs:label "Hercules-Egypt" ;
+    sim:hasRealityCounterpart d:egypt ;
+    sim:hasSimulacrum d:hercules ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:highest-zone-of-the-tomb-supercelestial-sphere a sim:Simulation ;
+    rdfs:label "highest zone of the tomb-supercelestial sphere" ;
+    sim:hasRealityCounterpart d:supercelestial-sphere ;
+    sim:hasSimulacrum d:highest-zone-of-the-tomb ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:ibis-homo-carnalis a sim:Simulation ;
+    rdfs:label "ibis-homo carnalis" ;
+    cito:citesAsEvidence d:1190bibl-content ;
+    sim:hasRealityCounterpart d:homo-carnalis ;
+    sim:hasSimulacrum d:ibis ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:incense-burner-bridal-chamber-decoration a sim:Simulation ;
+    rdfs:label "incense burner-bridal chamber decoration" ;
+    cito:citesAsEvidence d:1149bibl-content,
+        d:1150bibl-content ;
+    sim:hasRealityCounterpart d:bridal-chamber-decoration ;
+    sim:hasSimulacrum d:incense-burner ;
+    sim:hasSimulationType d:allusionsimulation .
+
+d:ivy-eternal-love a sim:Simulation ;
+    rdfs:label "ivy-eternal love" ;
+    cito:citesAsEvidence d:1147bibl-content,
+        d:1147bibl-content-lxi-vv-31-35 ;
+    sim:hasRealityCounterpart d:eternal-love ;
+    sim:hasSimulacrum d:ivy ;
+    sim:hasSimulationType d: .
+
+d:ixion-lewdness a sim:Simulation ;
+    rdfs:label "Ixion-lewdness" ;
+    cito:citesAsEvidence d:1189bibl-content ;
+    sim:hasRealityCounterpart d:lewdness ;
+    sim:hasSimulacrum d:ixion ;
+    sim:hasSimulationType d: .
+
+d:jewelry-earthly-goods a sim:Simulation ;
+    rdfs:label "jewelry-earthly goods" ;
+    sim:hasRealityCounterpart d:earthly-goods ;
+    sim:hasSimulacrum d:jewelry ;
+    sim:hasSimulationType d: .
+
+d:jupiter-diana-mercury-saturn-as-superior-divinities-reason a sim:Simulation ;
+    rdfs:label "Jupiter, Diana, Mercury, Saturn as superior divinities-reason" ;
+    cito:citesAsEvidence d:1164bibl-content ;
+    sim:hasRealityCounterpart d:reason ;
+    sim:hasSimulacrum d:jupiter-diana-mercury-saturn-as-superior-divinities ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:jupiter-minerva-mercury-saturn-as-superior-divinities-reason a sim:Simulation ;
+    rdfs:label "Jupiter, Minerva, Mercury, Saturn as superior divinities-reason" ;
+    sim:hasRealityCounterpart d:reason ;
+    sim:hasSimulacrum d:jupiter-minerva-mercury-saturn-as-superior-divinities ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:jupiter-pride a sim:Simulation ;
+    rdfs:label "Jupiter-Pride" ;
+    sim:hasRealityCounterpart d:pride ;
+    sim:hasSimulacrum d:jupiter ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:knotted-ribbon-bracelets-love a sim:Simulation ;
+    rdfs:label "knotted ribbon bracelets-love" ;
+    sim:hasRealityCounterpart d:love ;
+    sim:hasSimulacrum d:knotted-ribbon-bracelets ;
+    sim:hasSimulationType d: .
+
+d:lilium-purity a sim:Simulation ;
+    rdfs:label "lilium-purity" ;
+    sim:hasRealityCounterpart d:purity ;
+    sim:hasSimulacrum d:lilium ;
+    sim:hasSimulationType d: .
+
+d:lion-fury a sim:Simulation ;
+    rdfs:label "lion-Fury" ;
+    sim:hasRealityCounterpart d:fury ;
+    sim:hasSimulacrum d:lion ;
+    sim:hasSimulationType d: .
+
+d:liver-seat-of-physical-passions a sim:Simulation ;
+    rdfs:label "liver-seat of physical passions" ;
+    cito:citesAsEvidence d:1173bibl-content ;
+    sim:hasRealityCounterpart d:seat-of-physical-passions ;
+    sim:hasSimulacrum d:liver ;
+    sim:hasSimulationType d: .
+
+d:lowest-zone-of-the-tomb-realm-of-sheer-matter a sim:Simulation ;
+    rdfs:label "lowest zone of the tomb-realm of sheer matter" ;
+    sim:hasRealityCounterpart d:realm-of-sheer-matter ;
+    sim:hasSimulacrum d:lowest-zone-of-the-tomb ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:lyre-fashioned-from-a-stags-head-low-class-and-uncouth-music a sim:Simulation ;
+    rdfs:label "lyre fashioned from a stag's head-low class and uncouth music" ;
+    sim:hasRealityCounterpart d:low-class-and-uncouth-music ;
+    sim:hasSimulacrum d:lyre-fashioned-from-a-stags-head ;
+    sim:hasSimulationType d: .
+
+d:man-reclining-on-terrestrial-world-human-mind-placed-between-the-fallacious-and-unreal-life-on-earth-and-the-celestial-realm a sim:Simulation ;
+    rdfs:label "man reclining on terrestrial world-human mind placed between the fallacious and unreal life on earth and the celestial realm" ;
+    sim:hasRealityCounterpart d:human-mind-placed-between-the-fallacious-and-unreal-life-on-earth-and-the-celestial-realm ;
+    sim:hasSimulacrum d:man-reclining-on-terrestrial-world ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:mars-discord a sim:Simulation ;
+    rdfs:label "Mars-Discord" ;
+    sim:hasRealityCounterpart d:discord ;
+    sim:hasSimulacrum d:mars ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:masks-fallacy-deceit a sim:Simulation ;
+    rdfs:label "masks-fallacy, deceit" ;
+    sim:hasRealityCounterpart d:fallacy-deceit ;
+    sim:hasSimulacrum d:masks ;
+    sim:hasSimulationType d: .
+
+d:mercury-discursive-reason a sim:Simulation ;
+    rdfs:label "Mercury-Discursive reason" ;
+    sim:hasRealityCounterpart d:discursive-reason ;
+    sim:hasSimulacrum d:mercury ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+<http://icondataset.org/mercury-discursive-reason:-limitations-and-possibilities-of-what-human-reason-can-do> a sim:Simulation ;
+    rdfs:label "Mercury-Discursive reason: limitations and possibilities of what human reason can do" ;
+    sim:hasRealityCounterpart <http://icondataset.org/discursive-reason:-limitations-and-possibilities-of-what-human-reason-can-do> ;
+    sim:hasSimulacrum d:mercury ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:mercury-turning-his-back-to-the-realm-of-the-natural-venus-the-discursive-reason-is-not-involved-in-the-activities-of-the-natural-venus a sim:Simulation ;
+    rdfs:label "Mercury turning his back to the realm of the natural Venus-the discursive reason is not involved in the activities of the natural Venus" ;
+    sim:hasRealityCounterpart d:the-discursive-reason-is-not-involved-in-the-activities-of-the-natural-venus ;
+    sim:hasSimulacrum d:mercury-turning-his-back-to-the-realm-of-the-natural-venus ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:mermaid-persuasion a sim:Simulation ;
+    rdfs:label "mermaid-persuasion" ;
+    sim:hasRealityCounterpart d:persuasion ;
+    sim:hasSimulacrum d:mermaid ;
+    sim:hasSimulationType d: .
+
+d:mirror-introspection a sim:Simulation ;
+    rdfs:label "mirror-introspection" ;
+    sim:hasRealityCounterpart d:introspection ;
+    sim:hasSimulacrum d:mirror ;
+    sim:hasSimulationType d: .
+
+d:monk-vita-contemplativa a sim:Simulation ;
+    rdfs:label "monk-vita contemplativa" ;
+    sim:hasRealityCounterpart d:vita-contemplativa ;
+    sim:hasSimulacrum d:monk ;
+    sim:hasSimulationType d: .
+
+d:moses-mens a sim:Simulation ;
+    rdfs:label "Moses-mens" ;
+    sim:hasRealityCounterpart d:mens ;
+    sim:hasSimulacrum d:moses ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:most-primitive-natural-functions-sphere-of-a-purely-vegetative-life a sim:Simulation ;
+    rdfs:label "most primitive natural functions-sphere of a purely vegetative life" ;
+    sim:hasRealityCounterpart d:sphere-of-a-purely-vegetative-life ;
+    sim:hasSimulacrum d:most-primitive-natural-functions ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:mountain-ash-the-tree-of-life a sim:Simulation ;
+    rdfs:label "mountain ash-the Tree of Life" ;
+    sim:hasRealityCounterpart d:the-tree-of-life ;
+    sim:hasSimulacrum d:mountain-ash ;
+    sim:hasSimulationType d: .
+
+d:mouse-all-devouring-time a sim:Simulation ;
+    rdfs:label "mouse-all devouring time" ;
+    cito:citesAsEvidence d:1162bibl-content ;
+    sim:hasRealityCounterpart d:all-devouring-time ;
+    sim:hasSimulacrum d:mouse ;
+    sim:hasSimulationType d:symbolicsimulation .
+
+d:myrtle-everlasting-love a sim:Simulation ;
+    rdfs:label "myrtle-everlasting love" ;
+    sim:hasRealityCounterpart d:everlasting-love ;
+    sim:hasSimulacrum d:myrtle ;
+    sim:hasSimulationType d:symbolic .
+
+d:myrtle-love a sim:Simulation ;
+    rdfs:label "myrtle-love" ;
+    sim:hasRealityCounterpart d:love ;
+    sim:hasSimulacrum d:myrtle ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:natural-venus-amor-humanus a sim:Simulation ;
+    rdfs:label "natural Venus-Amor humanus" ;
+    sim:hasRealityCounterpart d:amor-humanus ;
+    sim:hasSimulacrum d:natural-venus ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:nude-girl-worldly-happiness a sim:Simulation ;
+    rdfs:label "nude girl-Worldly Happiness" ;
+    sim:hasRealityCounterpart d:worldly-happiness ;
+    sim:hasSimulacrum d:nude-girl ;
+    sim:hasSimulationType d: .
+
+d:owl-attribute-of-wisdom a sim:Simulation ;
+    rdfs:label "owl-attribute of wisdom" ;
+    cito:citesAsEvidence d:1151bibl-content ;
+    sim:hasRealityCounterpart d:attribute-of-wisdom ;
+    sim:hasSimulacrum d:owl ;
+    sim:hasSimulationType d: .
+
+d:ox-carrying-off-his-master-luke-the-evangelist-obeys-the-dictates-of-the-holy-spirit a sim:Simulation ;
+    rdfs:label "ox carrying off his master-Luke the Evangelist obeys the dictates of the Holy spirit" ;
+    sim:hasRealityCounterpart d:luke-the-evangelist-obeys-the-dictates-of-the-holy-spirit ;
+    sim:hasSimulacrum d:ox-carrying-off-his-master ;
+    sim:hasSimulationType d: .
+
+d:ox-christ a sim:Simulation ;
+    rdfs:label "ox-Christ" ;
+    sim:hasRealityCounterpart d:christ ;
+    sim:hasSimulacrum d:ox ;
+    sim:hasSimulationType d: .
+
+d:peaceful-landscape-on-the-left-innocent-happiness-of-a-pastoral-civilization a sim:Simulation ;
+    rdfs:label "peaceful landscape on the left-innocent happiness of a pastoral civilization" ;
+    sim:hasRealityCounterpart d:innocent-happiness-of-a-pastoral-civilization ;
+    sim:hasSimulacrum d:peaceful-landscape-on-the-left ;
+    sim:hasSimulationType d: .
+
+d:peaceful-landscape-on-the-left-reprehensible-pleasure a sim:Simulation ;
+    rdfs:label "peaceful landscape on the left-reprehensible pleasure" ;
+    sim:hasRealityCounterpart d:reprehensible-pleasure ;
+    sim:hasSimulacrum d:peaceful-landscape-on-the-left ;
+    sim:hasSimulationType d: .
+
+d:personification-of-time-lapse-of-time a sim:Simulation ;
+    rdfs:label "Personification of time-lapse of time" ;
+    sim:hasRealityCounterpart d:lapse-of-time ;
+    sim:hasSimulacrum d:personification-of-time ;
+    sim:hasSimulationType d: .
+
+d:phaeton-the-presumptuous a sim:Simulation ;
+    rdfs:label "Phaeton-the presumptuous" ;
+    cito:citesAsEvidence d:1170bibl-content,
+        d:1170bibl-content-inferno-xvii-106-fol-xxix ;
+    sim:hasRealityCounterpart d:the-presumptuous ;
+    sim:hasSimulacrum d:phaeton ;
+    sim:hasSimulationType d:allegorical .
+
+d:pillow-idleness-and-lechery a sim:Simulation ;
+    rdfs:label "pillow-idleness and lechery" ;
+    sim:hasRealityCounterpart d:idleness-and-lechery ;
+    sim:hasSimulacrum d:pillow ;
+    sim:hasSimulationType d:symbolic .
+
+d:playful-attitude-joy-love a sim:Simulation ;
+    rdfs:label "playful attitude-joy, love" ;
+    sim:hasRealityCounterpart d:joy-love ;
+    sim:hasSimulacrum d:playful-attitude ;
+    sim:hasSimulationType d: .
+
+d:pluto-avarice a sim:Simulation ;
+    rdfs:label "Pluto-Avarice" ;
+    sim:hasRealityCounterpart d:avarice ;
+    sim:hasSimulacrum d:pluto ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:princely-sceptre-jovial-magnanimity a sim:Simulation ;
+    rdfs:label "princely sceptre-Jovial magnanimity" ;
+    sim:hasRealityCounterpart d:jovial-magnanimity ;
+    sim:hasSimulacrum d:princely-sceptre ;
+    sim:hasSimulationType d:symbolic .
+
+d:puer-mingens-fertility a sim:Simulation ;
+    rdfs:label "puer mingens-fertility" ;
+    cito:citesAsEvidence d:1147bibl-content,
+        d:1147bibl-content-lxvii-v-30-_qui-ipse-sui-gnati-minxerit-in-gremium_ ;
+    sim:hasRealityCounterpart d:fertility ;
+    sim:hasSimulacrum d:puer-mingens ;
+    sim:hasSimulationType d: .
+
+d:punishment-of-prometheus-the-price-which-mankind-has-to-pay-for-its-intellectual-awakening a sim:Simulation ;
+    rdfs:label "Punishment of Prometheus-the price which mankind has to pay for its intellectual awakening" ;
+    sim:hasRealityCounterpart d:the-price-which-mankind-has-to-pay-for-its-intellectual-awakening ;
+    sim:hasSimulacrum d:punishment-of-prometheus ;
+    sim:hasSimulationType d: .
+
+d:punishment-of-tityus-liver-devoured-by-a-vulture-tortures-caused-by-immoderate-love a sim:Simulation ;
+    rdfs:label "punishment of Tityus (liver devoured by a vulture)-tortures caused by immoderate love" ;
+    cito:citesAsEvidence <http://dataperseusorg/citations/urn:cts:latinlit:phi0550phi001perseus-lat1:3978-31023> ;
+    sim:hasRealityCounterpart d:tortures-caused-by-immoderate-love ;
+    sim:hasSimulacrum d:punishment-of-tityus-liver-devoured-by-a-vulture ;
+    sim:hasSimulationType d: .
+
+d:putti-with-dolphins-love a sim:Simulation ;
+    rdfs:label "putti with dolphins-love" ;
+    sim:hasRealityCounterpart d:love ;
+    sim:hasSimulacrum d:putti-with-dolphins ;
+    sim:hasSimulationType d: .
+
+d:raising-an-arm-calming-the-riots a sim:Simulation ;
+    rdfs:label "raising an arm-calming the riots" ;
+    sim:hasRealityCounterpart d:calming-the-riots ;
+    sim:hasSimulacrum d:raising-an-arm ;
+    sim:hasSimulationType d: .
+
+d:red-cloth-bridal-chamber-decoration a sim:Simulation ;
+    rdfs:label "red cloth-bridal chamber decoration" ;
+    cito:citesAsEvidence d:1149bibl-content,
+        d:1150bibl-content ;
+    sim:hasRealityCounterpart d:bridal-chamber-decoration ;
+    sim:hasSimulacrum d:red-cloth ;
+    sim:hasSimulationType d:allusionsimulation .
+
+d:right-man-salamander a sim:Simulation ;
+    rdfs:label "right man-salamander" ;
+    sim:hasRealityCounterpart d:salamander ;
+    sim:hasSimulacrum d:right-man ;
+    sim:hasSimulationType d: .
+
+d:rod-venus-punished-cupid a sim:Simulation ;
+    rdfs:label "rod-venus punished cupid" ;
+    sim:hasRealityCounterpart d:venus-punished-cupid ;
+    sim:hasSimulacrum d:rod ;
+    sim:hasSimulationType d:allusionsimulation .
+
+d:rose-virginity a sim:Simulation ;
+    rdfs:label "rose-virginity" ;
+    sim:hasRealityCounterpart d:virginity ;
+    sim:hasSimulacrum d:rose ;
+    sim:hasSimulationType d: .
+
+d:roses-pleasures-of-permanent-congeniality a sim:Simulation ;
+    rdfs:label "roses-pleasures of permanent congeniality" ;
+    sim:hasRealityCounterpart d:pleasures-of-permanent-congeniality ;
+    sim:hasSimulacrum d:roses ;
+    sim:hasSimulationType d:symbolic .
+
+d:saint-paul-mens a sim:Simulation ;
+    rdfs:label "Saint Paul-mens" ;
+    sim:hasRealityCounterpart d:mens ;
+    sim:hasSimulacrum d:saint-paul ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:sarcophagus-converted-in-a-spring-of-life-vis-generandi a sim:Simulation ;
+    rdfs:label "sarcophagus converted in a spring of life-vis generandi" ;
+    sim:hasRealityCounterpart d:vis-generandi ;
+    sim:hasSimulacrum d:sarcophagus-converted-in-a-spring-of-life ;
+    sim:hasSimulationType d:allusionsimulation .
+
+d:satyr-egyptian-desert-wilderness a sim:Simulation ;
+    rdfs:label "Satyr-Egyptian desert, wilderness" ;
+    sim:hasRealityCounterpart d:egyptian-desert-wilderness ;
+    sim:hasSimulacrum d:satyr ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:serpent-attribute-of-wisdom a sim:Simulation ;
+    rdfs:label "serpent-attribute of wisdom" ;
+    cito:citesAsEvidence d:1188bibl-content,
+        <http://icondataset.org/1188bibl-content-10:16> ;
+    sim:hasRealityCounterpart d:attribute-of-wisdom ;
+    sim:hasSimulacrum d:serpent ;
+    sim:hasSimulationType d: .
+
+d:serpent-perfidy a sim:Simulation ;
+    rdfs:label "serpent-Perfidy" ;
+    sim:hasRealityCounterpart d:perfidy ;
+    sim:hasSimulacrum d:serpent ;
+    sim:hasSimulationType d: .
+
+d:shepherdess-amorous-implications-of-the-arcadian-milieu a sim:Simulation ;
+    rdfs:label "shepherdess-amorous implications of the Arcadian milieu" ;
+    sim:hasRealityCounterpart d:amorous-implications-of-the-arcadian-milieu ;
+    sim:hasSimulacrum d:shepherdess ;
+    sim:hasSimulationType d:allusionsimulation .
+
+d:sisyphus-pride a sim:Simulation ;
+    rdfs:label "Sisyphus-pride" ;
+    cito:citesAsEvidence d:1189bibl-content ;
+    sim:hasRealityCounterpart d:pride ;
+    sim:hasSimulacrum d:sisyphus ;
+    sim:hasSimulationType d: .
+
+d:sitting-down-on-a-lion-quando-est-in-leone a sim:Simulation ;
+    rdfs:label "sitting down on a lion-quando est in leone" ;
+    sim:hasRealityCounterpart d:quando-est-in-leone ;
+    sim:hasSimulacrum d:sitting-down-on-a-lion ;
+    sim:hasSimulationType d:symbolicsimulation .
+
+d:skull-death-personified a sim:Simulation ;
+    rdfs:label "skull-death personified" ;
+    sim:hasRealityCounterpart d:death-personified ;
+    sim:hasSimulacrum d:skull ;
+    sim:hasSimulationType d: .
+
+d:sleeping-cupid-natural-desire-has-nothing-to-do-with-love a sim:Simulation ;
+    rdfs:label "sleeping Cupid-natural desire has nothing to do with love" ;
+    cito:citesAsEvidence d:1172bibl-content ;
+    sim:hasRealityCounterpart d:natural-desire-has-nothing-to-do-with-love ;
+    sim:hasSimulacrum d:sleeping-cupid ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:sleeping-youth-simple-happiness-of-primitive-civilization a sim:Simulation ;
+    rdfs:label "sleeping youth-simple happiness of primitive civilization" ;
+    sim:hasRealityCounterpart d:simple-happiness-of-primitive-civilization ;
+    sim:hasSimulacrum d:sleeping-youth ;
+    sim:hasSimulationType d: .
+
+d:snake-subterranean-world a sim:Simulation ;
+    rdfs:label "snake-subterranean world" ;
+    sim:hasRealityCounterpart d:subterranean-world ;
+    sim:hasSimulacrum d:snake ;
+    sim:hasSimulationType d:symbolic .
+
+d:stepping-on-defeating-devil a sim:Simulation ;
+    rdfs:label "stepping on-defeating devil" ;
+    sim:hasRealityCounterpart d:defeating-devil ;
+    sim:hasSimulacrum d:stepping-on ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:tantalus-avarice a sim:Simulation ;
+    rdfs:label "Tantalus-avarice" ;
+    cito:citesAsEvidence d:1189bibl-content ;
+    sim:hasRealityCounterpart d:avarice ;
+    sim:hasSimulacrum d:tantalus ;
+    sim:hasSimulationType d: .
+
+d:temple-of-solomon-ornate-as-a-church-correlation-between-the-old-testament-and-the-new a sim:Simulation ;
+    rdfs:label "Temple of Solomon ornate as a church-correlation between the Old Testament and the New" ;
+    sim:hasRealityCounterpart d:correlation-between-the-old-testament-and-the-new ;
+    sim:hasSimulacrum d:temple-of-solomon-ornate-as-a-church ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:the-grace-turning-his-back-favor-conferred a sim:Simulation ;
+    rdfs:label "the Grace turning his back-favor conferred" ;
+    cito:citesAsEvidence d:1024bibl-content ;
+    sim:hasRealityCounterpart d:favor-conferred ;
+    sim:hasSimulacrum d:the-grace-turning-his-back ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:threatening-and-wild-landscape-on-the-right-merciless-hardships-of-unmitigated-wildness a sim:Simulation ;
+    rdfs:label "threatening and wild landscape on the right-merciless hardships of unmitigated wildness" ;
+    sim:hasRealityCounterpart d:merciless-hardships-of-unmitigated-wildness ;
+    sim:hasSimulacrum d:threatening-and-wild-landscape-on-the-right ;
+    sim:hasSimulationType d: .
+
+d:threatening-and-wild-landscape-on-the-right-praiseworthy-virtues a sim:Simulation ;
+    rdfs:label "threatening and wild landscape on the right-praiseworthy virtues" ;
+    sim:hasRealityCounterpart d:praiseworthy-virtues ;
+    sim:hasSimulacrum d:threatening-and-wild-landscape-on-the-right ;
+    sim:hasSimulationType d: .
+
+d:three-books-three-forms-of-time-past-present-future a sim:Simulation ;
+    rdfs:label "three books-three forms of time (past, present, future)" ;
+    sim:hasRealityCounterpart d:three-forms-of-time-past-present-future ;
+    sim:hasSimulacrum d:three-books ;
+    sim:hasSimulationContext d:allegoricalsimulation ;
+    sim:hasSimulationType d:allegoricalsimulation .
+
+d:three-graces-three-aspects-of-venus a sim:Simulation ;
+    rdfs:label "Three Graces-three aspects of Venus" ;
+    sim:hasRealityCounterpart d:three-aspects-of-venus ;
+    sim:hasSimulacrum d:three-graces ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:three-headed-companion-of-serapis-prudence a sim:Simulation ;
+    rdfs:label "three headed companion of Serapis-prudence" ;
+    cito:citesAsEvidence d:1151bibl-content ;
+    sim:hasRealityCounterpart d:prudence ;
+    sim:hasSimulacrum d:three-headed-companion-of-serapis ;
+    sim:hasSimulationType d:symbolicsimulation .
+
+d:three-headed-companion-of-serapis-three-forms-of-time-past-present-future a sim:Simulation ;
+    rdfs:label "three-headed companion of Serapis-three forms of time (past, present, future)" ;
+    sim:hasRealityCounterpart d:headed-companion-of-serapis ;
+    sim:hasSimulacrum d:three ;
+    sim:hasSimulationType d:three-forms-of-time-past-present-future .
+
+d:three-heads-three-forms-of-time-past-present-future a sim:Simulation ;
+    rdfs:label "three heads-three forms of time (past, present, future)" ;
+    sim:hasRealityCounterpart d:three-forms-of-time-past-present-future ;
+    sim:hasSimulacrum d:three-heads ;
+    sim:hasSimulationType d: .
+
+d:tombs-christian-rite-of-burial a sim:Simulation ;
+    rdfs:label "tombs-christian rite of burial" ;
+    sim:hasRealityCounterpart d:christian-rite-of-burial ;
+    sim:hasSimulacrum d:tombs ;
+    sim:hasSimulationType d: .
+
+d:torch-unholy-ardor a sim:Simulation ;
+    rdfs:label "torch-unholy ardor" ;
+    sim:hasRealityCounterpart d:unholy-ardor ;
+    sim:hasSimulacrum d:torch ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:trophies-ultimate-triumph-over-the-lower-forms-of-existence a sim:Simulation ;
+    rdfs:label "trophies-ultimate triumph over the lower forms of existence" ;
+    sim:hasRealityCounterpart d:ultimate-triumph-over-the-lower-forms-of-existence ;
+    sim:hasSimulacrum d:trophies ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:two-billing-doves-amorous-caresses a sim:Simulation ;
+    rdfs:label "two billing doves-amorous caresses" ;
+    cito:citesAsEvidence d:1151bibl-content,
+        d:1151bibl-content-carezze-amatorie ;
+    sim:hasRealityCounterpart d:amorous-caresses ;
+    sim:hasSimulacrum d:two-billing-doves ;
+    sim:hasSimulationType d:symbolic .
+
+d:two-graces-facing-the-observer-favor-returned-twofold a sim:Simulation ;
+    rdfs:label "two Graces facing the observer-favor returned twofold" ;
+    cito:citesAsEvidence d:1024bibl-content ;
+    sim:hasRealityCounterpart d:favor-returned-twofold ;
+    sim:hasSimulacrum d:two-graces-facing-the-observer ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:two-rats-one-black-one-white-destruction-of-life-by-each-day-and-night a sim:Simulation ;
+    rdfs:label "two rats, one black, one white-destruction of life by each day and night" ;
+    sim:hasRealityCounterpart d:destruction-of-life-by-each-day-and-night ;
+    sim:hasSimulacrum d:two-rats-one-black-one-white ;
+    sim:hasSimulationType d: .
+
+d:urinating-wish-of-fertility a sim:Simulation ;
+    rdfs:label "urinating-wish of fertility" ;
+    cito:citesAsEvidence d:1147bibl-content,
+        d:1147bibl-content-lxvii-v-30-_qui-ipse-sui-gnati-minxerit-in-gremium_ ;
+    sim:hasRealityCounterpart d:wish-of-fertility ;
+    sim:hasSimulacrum d:urinating ;
+    sim:hasSimulationType d: .
+
+d:urns-pagan-custom-of-cremation a sim:Simulation ;
+    rdfs:label "urns-pagan custom of cremation" ;
+    sim:hasRealityCounterpart d:pagan-custom-of-cremation ;
+    sim:hasSimulacrum d:urns ;
+    sim:hasSimulationType d: .
+
+d:venus-belt-seduction a sim:Simulation ;
+    rdfs:label "Venus' belt-seduction" ;
+    cito:citesAsEvidence d:1146bibl-content,
+        d:1146bibl-content-liber-xiv-vv-210-220 ;
+    sim:hasRealityCounterpart d:seduction ;
+    sim:hasSimulacrum d:venus-belt ;
+    sim:hasSimulationType d: .
+
+d:venus-coelestis-amor-divinus a sim:Simulation ;
+    rdfs:label "Venus Coelestis-Amor divinus" ;
+    sim:hasRealityCounterpart d:amor-divinus ;
+    sim:hasSimulacrum d:venus-coelestis ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:venus-coelestis-principle-of-universal-and-eternal-but-purely-intelligible-beauty a sim:Simulation ;
+    rdfs:label "Venus Coelestis-principle of universal and eternal but purely intelligible beauty" ;
+    cito:citesAsEvidence d:1181bibl-content ;
+    sim:hasRealityCounterpart d:principle-of-universal-and-eternal-but-purely-intelligible-beauty ;
+    sim:hasSimulacrum d:venus-coelestis ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:venus-cupid-vulcan-lower-soul a sim:Simulation ;
+    rdfs:label "Venus, Cupid, Vulcan-lower soul" ;
+    cito:citesAsEvidence d:1164bibl-content ;
+    sim:hasRealityCounterpart d:lower-soul ;
+    sim:hasSimulacrum d:venus-cupid-vulcan ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:venus-vulgaris-generative-force-that-creates-the-perishable-but-visible-and-tangible-images-of-beauty-of-earth a sim:Simulation ;
+    rdfs:label "Venus Vulgaris-generative force that creates the perishable but visible and tangible images of Beauty of Earth" ;
+    cito:citesAsEvidence d:1181bibl-content ;
+    sim:hasRealityCounterpart d:generative-force-that-creates-the-perishable-but-visible-and-tangible-images-of-beauty-of-earth ;
+    sim:hasSimulacrum d:venus-vulgaris ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:victory-human-soul-in-state-of-freedom a sim:Simulation ;
+    rdfs:label "Victory-human soul in state of freedom" ;
+    sim:hasRealityCounterpart d:human-soul-in-state-of-freedom ;
+    sim:hasSimulacrum d:victory ;
+    sim:hasSimulationContext d:symbolic ;
+    sim:hasSimulationType d:symbolic .
+
+d:weighing-with-balance-allusion-to-last-judgement a sim:Simulation ;
+    rdfs:label "weighing with balance-allusion to last judgement" ;
+    sim:hasRealityCounterpart d:allusion-to-last-judgement ;
+    sim:hasSimulacrum d:weighing-with-balance ;
+    sim:hasSimulationType d:allusionsimulation .
+
+d:weighing-with-balance-weighing-of-souls a sim:Simulation ;
+    rdfs:label "weighing with balance-weighing of souls" ;
+    sim:hasRealityCounterpart d:weighing-of-souls ;
+    sim:hasSimulacrum d:weighing-with-balance ;
+    sim:hasSimulationType d: .
+
+d:white-lilium-virginity a sim:Simulation ;
+    rdfs:label "white lilium-virginity" ;
+    sim:hasRealityCounterpart d:virginity ;
+    sim:hasSimulacrum d:white-lilium ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:white-purity a sim:Simulation ;
+    rdfs:label "white-purity" ;
+    sim:hasRealityCounterpart d:purity ;
+    sim:hasSimulacrum d:white ;
+    sim:hasSimulationContext d: ;
+    sim:hasSimulationType d: .
+
+d:wolf-greed a sim:Simulation ;
+    rdfs:label "wolf-Greed" ;
+    sim:hasRealityCounterpart d:greed ;
+    sim:hasSimulacrum d:wolf ;
+    sim:hasSimulationType d: .
+
+d:young-mago-future-time a sim:Simulation ;
+    rdfs:label "young Mago-future time" ;
+    sim:hasRealityCounterpart d:future-time ;
+    sim:hasSimulacrum d:young-mago ;
+    sim:hasSimulationType d: .
+
+d:1146bibl-content crm:P106_is_composed_of d:1146bibl-content-liber-xiv-vv-210-220 .
+
+d:1180bibl-content crm:P106_is_composed_of d:1180bibl-content-iv-44 .
+
+d:1188bibl-content crm:P106_is_composed_of <http://icondataset.org/1188bibl-content-10:16> .
+
+d:a-pair-of-masks-one-of-a-young-woman-the-other-of-a-old-malevolent-man rdfs:label "a pair of masks, one of a young woman, the other of a old malevolent man" .
+
+d:affection-changes-with-luck rdfs:label "affection changes with luck" .
+
+d:all-devouring-time rdfs:label "all devouring time" .
+
+d:allusion-to-last-judgement rdfs:label "allusion to last judgement" .
+
+d:amor-carnalis rdfs:label "amor carnalis" .
+
+d:amor-divinus rdfs:label "Amor divinus" .
+
+d:amor-humanus rdfs:label "Amor humanus" .
+
+d:amorous-caresses rdfs:label "amorous caresses" .
+
+d:amorous-implications-of-the-arcadian-milieu rdfs:label "amorous implications of the Arcadian milieu" .
+
+d:angel-glad-that-the-soul-of-the-pope-had-been-received-among-the-blessed-spirits rdfs:label "angel glad that the soul of the Pope had been received among the blessed spirits" .
+
+d:angel-grieved-that-the-world-had-been-deprived-of-such-a-man rdfs:label "angel grieved that the world had been deprived of such a man" .
+
+d:angel-smiling-while-carrying-the-coffin-of-the-pope rdfs:label "Angel smiling while carrying the coffin of the Pope" .
+
+d:angel-wepting-while-carrying-the-coffin-of-the-pope rdfs:label "Angel wepting while carrying the coffin of the Pope" .
+
+d:anger rdfs:label "anger" .
+
+d:animal-love-fertility rdfs:label "animal love, fertility" .
+
+d:antidotes-against-sexual-passion-marriage-prayer-business-abstinence rdfs:label "antidotes against sexual passion (Marriage, Prayer, Business, Abstinence)" .
+
+d:apollo rdfs:label "Apollo" .
+
+d:arciers-without-arrows rdfs:label "arciers without arrows" .
+
+d:bacchus rdfs:label "Bacchus" .
+
+d:bat rdfs:label "bat" .
+
+d:bear rdfs:label "bear" .
+
+d:blind-and-unhappy-human-soul rdfs:label "blind and unhappy human soul" .
+
+d:blind-fortune-blindfolding-cupid-and-putting-him-on-a-sphere rdfs:label "Blind Fortune blindfolding Cupid and putting him on a sphere" .
+
+d:blowing-in-a-cone-shell rdfs:label "blowing in a cone shell" .
+
+d:blowing-in-a-tube rdfs:label "blowing in a tube" .
+
+d:blue rdfs:label "blue" .
+
+d:book rdfs:label "book" .
+
+d:branches-of-a-tree rdfs:label "branches of a tree" .
+
+d:bull rdfs:label "Bull" .
+
+d:bundle-of-sticks rdfs:label "bundle of sticks" .
+
+d:calming-the-riots rdfs:label "calming the riots" .
+
+d:cameo-with-a-pair-of-winged-horses-and-a-charioteer rdfs:label "Cameo with a pair of winged horses and a charioteer" .
+
+d:carrying-on-shoulders rdfs:label "carrying on shoulders" .
+
+d:celestial-fire-carried-by-the-torch-of-prometheus rdfs:label "celestial fire carried by the torch of Prometheus" .
+
+d:central-zone-of-the-tomb rdfs:label "central zone of the tomb" .
+
+d:chain-with-a-heart rdfs:label "chain with a heart" .
+
+d:children-crouching-down rdfs:label "children crouching down" .
+
+d:christian-rite-of-burial rdfs:label "christian rite of burial" .
+
+d:clarity-of-knowledge-infused-into-the-heart-of-the-ignorant-that-can-be-attained-at-the-expense-of-happiness-and-peace-of-mind rdfs:label "clarity of knowledge infused into the heart of the ignorant that can be attained at the expense of happiness and peace of mind" .
+
+d:closed-cash-box rdfs:label "closed cash box" .
+
+d:correlation-between-the-old-testament-and-the-new rdfs:label "correlation between the Old Testament and the New" .
+
+d:cupid rdfs:label "Cupid" .
+
+d:cupid-between-venus-coelestis-and-venus-vulgaris rdfs:label "Cupid between Venus Coelestis and Venus Vulgaris" .
+
+d:cupid-transforming-himself-from-a-personification-of-blind-ignoble-love-to-an-exponent-of-seeing-platonic-love rdfs:label "Cupid transforming himself from a personification of blind, ignoble love to an exponent of seeing, platonic love" .
+
+d:cupid-unblindfolding-himself rdfs:label "Cupid unblindfolding himself" .
+
+d:death-personified rdfs:label "death personified" .
+
+d:decade rdfs:label "decade" .
+
+d:deer rdfs:label "deer" .
+
+d:defeating-devil rdfs:label "defeating devil" .
+
+d:destruction-of-life-by-each-day-and-night rdfs:label "destruction of life by each day and night" .
+
+d:devil rdfs:label "devil" .
+
+d:discord rdfs:label "Discord" .
+
+d:discursive-reason rdfs:label "Discursive reason" .
+
+<http://icondataset.org/discursive-reason:-limitations-and-possibilities-of-what-human-reason-can-do> rdfs:label "Discursive reason: limitations and possibilities of what human reason can do" .
+
+d:dog rdfs:label "dog" .
+
+d:dove rdfs:label "dove" .
+
+d:dragon-biting-its-tail rdfs:label "dragon biting its tail" .
+
+d:dragoon rdfs:label "dragoon" .
+
+d:draped-ganymede-raped-by-the-eagle-so-that-he-is-not-hurt-by-the-eagles-talons rdfs:label "Draped Ganymede raped by the eagle, so that he is not hurt by the eagle's talons" .
+
+d:dressed-girl rdfs:label "dressed girl" .
+
+d:earthly-goods rdfs:label "earthly goods" .
+
+d:ecstasy-of-platonic-love rdfs:label "ecstasy of Platonic love" .
+
+d:egypt rdfs:label "Egypt" .
+
+d:egyptian-desert-wilderness rdfs:label "Egyptian desert, wilderness" .
+
+d:empty-throne rdfs:label "empty throne" .
+
+d:envy rdfs:label "envy" .
+
+d:eternal-love rdfs:label "eternal love" .
+
+d:europa rdfs:label "Europa" .
+
+d:everlasting-love rdfs:label "everlasting love" .
+
+d:everything-subhuman-in-man-lust-greed-gluttony-shamelessness rdfs:label "everything subhuman in man (lust, greed, gluttony, shamelessness)" .
+
+d:face-of-a-young-man rdfs:label "face of a young man" .
+
+d:face-of-a-young-woman rdfs:label "face of a young woman" .
+
+d:face-of-an-adult-man rdfs:label "face of an adult man" .
+
+d:face-of-an-adult-woman rdfs:label "face of an adult woman" .
+
+d:face-of-an-old-man rdfs:label "face of an old man" .
+
+d:face-of-an-old-woman rdfs:label "face of an old woman" .
+
+d:fallacy-deceit rdfs:label "fallacy, deceit" .
+
+d:family rdfs:label "family" .
+
+d:favor-conferred rdfs:label "favor conferred" .
+
+d:favor-returned-twofold rdfs:label "favor returned twofold" .
+
+d:feathers rdfs:label "feathers" .
+
+d:fertilising rdfs:label "fertilising" .
+
+d:fire-to-burn-the-time rdfs:label "fire to burn the time" .
+
+d:fly rdfs:label "fly" .
+
+d:flying-towards-marys-head rdfs:label "flying towards Mary's head" .
+
+d:folly rdfs:label "Folly" .
+
+d:four-elements-air-fire-earth-water rdfs:label "four elements (air, fire, earth, water)" .
+
+d:four-humours rdfs:label "four humours" .
+
+d:four-seasons rdfs:label "four seasons" .
+
+d:four-wings rdfs:label "four wings" .
+
+d:fourfold-aspect-of-matter-as-a-source-of-potential-evil rdfs:label "fourfold aspect of matter as a source of potential evil" .
+
+d:function rdfs:label "Function" .
+
+d:fury rdfs:label "Fury" .
+
+d:future-time rdfs:label "future time" .
+
+d:ganymede-ascending-to-heaven-on-the-wings-of-an-eagle rdfs:label "Ganymede ascending to Heaven on the wings of an eagle" .
+
+d:generating-panic-terror rdfs:label "generating panic terror" .
+
+d:generative-force-that-creates-the-perishable-but-visible-and-tangible-images-of-beauty-of-earth rdfs:label "generative force that creates the perishable but visible and tangible images of Beauty of Earth" .
+
+d:god rdfs:label "God" .
+
+d:good-counsel-coming-from-heart rdfs:label "good counsel coming from heart" .
+
+d:greed rdfs:label "Greed" .
+
+d:hares rdfs:label "hares" .
+
+d:harmony-that-can-be-easily-broken rdfs:label "harmony that can be easily broken" .
+
+d:haste rdfs:label "haste" .
+
+d:head-of-a-dog rdfs:label "head of a dog" .
+
+d:head-of-a-lion rdfs:label "head of a lion" .
+
+d:head-of-a-wolf rdfs:label "head of a wolf" .
+
+d:headed-companion-of-serapis rdfs:label "headed companion of Serapis" .
+
+d:heaven rdfs:label "heaven" .
+
+d:heavenly-life rdfs:label "Heavenly Life" .
+
+d:hercules rdfs:label "Hercules" .
+
+d:highest-zone-of-the-tomb rdfs:label "highest zone of the tomb" .
+
+d:holy-spirit rdfs:label "Holy Spirit" .
+
+d:homo-carnalis rdfs:label "homo carnalis" .
+
+d:hue-of-heaven rdfs:label "hue of heaven" .
+
+d:human-mind-placed-between-the-fallacious-and-unreal-life-on-earth-and-the-celestial-realm rdfs:label "human mind placed between the fallacious and unreal life on earth and the celestial realm" .
+
+d:human-soul rdfs:label "human soul" .
+
+d:human-soul-in-so-far-as-it-is-devoid-of-freedom rdfs:label "human soul in so far as it is devoid of freedom" .
+
+d:human-soul-in-state-of-freedom rdfs:label "human soul in state of freedom" .
+
+d:ibis rdfs:label "ibis" .
+
+d:idleness-and-lechery rdfs:label "idleness and lechery" .
+
+d:idolatry rdfs:label "Idolatry" .
+
+d:incense-burner rdfs:label "incense burner" .
+
+d:innocent-happiness-of-a-pastoral-civilization rdfs:label "innocent happiness of a pastoral civilization" .
+
+d:introspection rdfs:label "introspection" .
+
+d:invisible-presence-of-an-immortal rdfs:label "invisible presence of an immortal" .
+
+d:ivy rdfs:label "ivy" .
+
+d:ixion rdfs:label "Ixion" .
+
+d:jewelry rdfs:label "jewelry" .
+
+d:jovial-magnanimity rdfs:label "Jovial magnanimity" .
+
+d:joy-love rdfs:label "joy, love" .
+
+d:jupiter rdfs:label "Jupiter" .
+
+d:jupiter-diana-mercury-saturn-as-superior-divinities rdfs:label "Jupiter, Diana, Mercury, Saturn as superior divinities" .
+
+d:jupiter-minerva-mercury-saturn-as-superior-divinities rdfs:label "Jupiter, Minerva, Mercury, Saturn as superior divinities" .
+
+d:knotted-ribbon-bracelets rdfs:label "knotted ribbon bracelets" .
+
+d:lapse-of-time rdfs:label "lapse of time" .
+
+d:lewdness rdfs:label "lewdness" .
+
+d:lilium rdfs:label "lilium" .
+
+d:lion rdfs:label "lion" .
+
+d:liver rdfs:label "liver" .
+
+d:love-acts-as-an-intermediary-between-heaven-and-earth rdfs:label "love acts as an intermediary between heaven and earth" .
+
+d:low-class-and-uncouth-music rdfs:label "low class and uncouth music" .
+
+d:lowest-zone-of-the-tomb rdfs:label "lowest zone of the tomb" .
+
+d:luke-the-evangelist-obeys-the-dictates-of-the-holy-spirit rdfs:label "Luke the Evangelist obeys the dictates of the Holy spirit" .
+
+d:luxury rdfs:label "luxury" .
+
+d:lyre-fashioned-from-a-stags-head rdfs:label "lyre fashioned from a stag's head" .
+
+d:man-reclining-on-terrestrial-world rdfs:label "man reclining on terrestrial world" .
+
+d:mars rdfs:label "Mars" .
+
+d:masks rdfs:label "masks" .
+
+d:melancholy rdfs:label "melancholy" .
+
+d:merciless-hardships-of-unmitigated-wildness rdfs:label "merciless hardships of unmitigated wildness" .
+
+d:mercury-turning-his-back-to-the-realm-of-the-natural-venus rdfs:label "Mercury turning his back to the realm of the natural Venus" .
+
+d:mermaid rdfs:label "mermaid" .
+
+d:mirror rdfs:label "mirror" .
+
+d:monk rdfs:label "monk" .
+
+d:months rdfs:label "months" .
+
+d:moses rdfs:label "Moses" .
+
+d:most-primitive-natural-functions rdfs:label "most primitive natural functions" .
+
+d:mountain-ash rdfs:label "mountain ash" .
+
+d:mouse rdfs:label "mouse" .
+
+d:natural-desire-has-nothing-to-do-with-love rdfs:label "natural desire has nothing to do with love" .
+
+d:natural-venus rdfs:label "natural Venus" .
+
+d:nude-girl rdfs:label "nude girl" .
+
+d:owl rdfs:label "owl" .
+
+d:ox rdfs:label "ox" .
+
+d:ox-carrying-off-his-master rdfs:label "ox carrying off his master" .
+
+d:pagan-custom-of-cremation rdfs:label "pagan custom of cremation" .
+
+d:panic rdfs:label "panic" .
+
+d:perfect-harmony-of-soul-and-body rdfs:label "perfect harmony of soul and body" .
+
+d:perfidy rdfs:label "Perfidy" .
+
+d:personification-of-time rdfs:label "Personification of time" .
+
+d:phaeton rdfs:label "Phaeton" .
+
+d:pillow rdfs:label "pillow" .
+
+d:platos-immortal-comparison-of-the-human-soul rdfs:label "Plato's immortal comparison of the human soul" .
+
+d:playful-attitude rdfs:label "playful attitude" .
+
+d:pleasures-of-permanent-congeniality rdfs:label "pleasures of permanent congeniality" .
+
+d:pluto rdfs:label "Pluto" .
+
+d:praiseworthy-virtues rdfs:label "praiseworthy virtues" .
+
+d:princely-sceptre rdfs:label "princely sceptre" .
+
+d:principle-of-universal-and-eternal-but-purely-intelligible-beauty rdfs:label "principle of universal and eternal but purely intelligible beauty" .
+
+d:prudence rdfs:label "prudence" .
+
+d:puer-mingens rdfs:label "puer mingens" .
+
+d:punishment-of-prometheus rdfs:label "Punishment of Prometheus" .
+
+d:punishment-of-tityus-liver-devoured-by-a-vulture rdfs:label "punishment of Tityus (liver devoured by a vulture)" .
+
+d:putti-with-dolphins rdfs:label "putti with dolphins" .
+
+d:quando-est-in-leone rdfs:label "quando est in leone" .
+
+d:raising-an-arm rdfs:label "raising an arm" .
+
+d:realm-of-nature rdfs:label "realm of Nature" .
+
+d:realm-of-nature-the-only-sphere-subject-to-time rdfs:label "realm of Nature (the only sphere subject to time)" .
+
+d:realm-of-sheer-matter rdfs:label "realm of sheer matter" .
+
+d:red-cloth rdfs:label "red cloth" .
+
+d:reprehensible-pleasure rdfs:label "reprehensible pleasure" .
+
+d:right-man rdfs:label "right man" .
+
+d:rod rdfs:label "rod" .
+
+d:rose rdfs:label "rose" .
+
+d:roses rdfs:label "roses" .
+
+d:saint-paul rdfs:label "Saint Paul" .
+
+d:salamander rdfs:label "salamander" .
+
+d:sarcophagus-converted-in-a-spring-of-life rdfs:label "sarcophagus converted in a spring of life" .
+
+d:saturninian-parsimony rdfs:label "Saturninian parsimony" .
+
+d:satyr rdfs:label "Satyr" .
+
+d:saving-souls rdfs:label "saving souls" .
+
+d:seat-of-physical-passions rdfs:label "seat of physical passions" .
+
+d:seduction rdfs:label "seduction" .
+
+d:shepherdess rdfs:label "shepherdess" .
+
+d:sisyphus rdfs:label "Sisyphus" .
+
+d:sitting-down-on-a-lion rdfs:label "sitting down on a lion" .
+
+d:skull rdfs:label "skull" .
+
+d:sleeping-cupid rdfs:label "sleeping Cupid" .
+
+d:sleeping-youth rdfs:label "sleeping youth" .
+
+d:snake rdfs:label "snake" .
+
+d:souls rdfs:label "souls" .
+
+d:sphere-of-a-purely-vegetative-life rdfs:label "sphere of a purely vegetative life" .
+
+d:stepping-on rdfs:label "stepping on" .
+
+d:subjugation-of-base-emotions rdfs:label "subjugation of base emotions" .
+
+d:subterranean-world rdfs:label "subterranean world" .
+
+d:supercelestial-sphere rdfs:label "supercelestial sphere" .
+
+d:tantalus rdfs:label "Tantalus" .
+
+d:temple-of-solomon-ornate-as-a-church rdfs:label "Temple of Solomon ornate as a church" .
+
+d:the-discursive-reason-is-not-involved-in-the-activities-of-the-natural-venus rdfs:label "the discursive reason is not involved in the activities of the natural Venus" .
+
+d:the-grace-turning-his-back rdfs:label "the Grace turning his back" .
+
+d:the-presumptuous rdfs:label "the presumptuous" .
+
+d:the-price-which-mankind-has-to-pay-for-its-intellectual-awakening rdfs:label "the price which mankind has to pay for its intellectual awakening" .
+
+d:the-tree-of-life rdfs:label "the Tree of Life" .
+
+d:three rdfs:label "three" .
+
+d:three-aspects-of-venus rdfs:label "three aspects of Venus" .
+
+d:three-books rdfs:label "three books" .
+
+d:three-graces rdfs:label "Three Graces" .
+
+d:three-headed-companion-of-serapis rdfs:label "three headed companion of Serapis" .
+
+d:three-heads rdfs:label "three heads" .
+
+d:time rdfs:label "time" .
+
+d:to-fertilise rdfs:label "to fertilise" .
+
+d:tombs rdfs:label "tombs" .
+
+d:tools-of-a-force-beyond-their-will-and-consciousness rdfs:label "tools of a force beyond their will and consciousness" .
+
+d:torch rdfs:label "torch" .
+
+d:tortures-caused-by-immoderate-love rdfs:label "tortures caused by immoderate love" .
+
+d:trophies rdfs:label "trophies" .
+
+d:two-billing-doves rdfs:label "two billing doves" .
+
+d:two-graces-facing-the-observer rdfs:label "two Graces facing the observer" .
+
+d:two-rats-one-black-one-white rdfs:label "two rats, one black, one white" .
+
+d:ultimate-triumph-over-the-lower-forms-of-existence rdfs:label "ultimate triumph over the lower forms of existence" .
+
+d:unborn-souls-doomed-to-descend-to-the-lower-spheres rdfs:label "unborn souls doomed to descend to the lower spheres" .
+
+d:unholy-ardor rdfs:label "unholy ardor" .
+
+d:unity rdfs:label "unity" .
+
+d:unregenerated-human-soul-held-in-bondage-by-its-natural-desires rdfs:label "unregenerated human soul held in bondage by its natural desires" .
+
+d:urinating rdfs:label "urinating" .
+
+d:urns rdfs:label "urns" .
+
+d:venus-belt rdfs:label "Venus' belt" .
+
+d:venus-cupid-vulcan rdfs:label "Venus, Cupid, Vulcan" .
+
+d:venus-punished-cupid rdfs:label "venus punished cupid" .
+
+d:venus-vulgaris rdfs:label "Venus Vulgaris" .
+
+d:victory rdfs:label "Victory" .
+
+d:vis-generandi rdfs:label "vis generandi" .
+
+d:vita-contemplativa rdfs:label "vita contemplativa" .
+
+d:weighing-of-souls rdfs:label "weighing of souls" .
+
+d:white rdfs:label "white" .
+
+d:white-lilium rdfs:label "white lilium" .
+
+d:wish-of-fertility rdfs:label "wish of fertility" .
+
+d:wolf rdfs:label "wolf" .
+
+d:worldliness-insincerity-falsehood rdfs:label "worldliness, insincerity, falsehood" .
+
+d:worldly-happiness rdfs:label "Worldly Happiness" .
+
+d:young-mago rdfs:label "young Mago" .
+
+d:1146bibl-content-liber-xiv-vv-210-220 rdfs:label "" .
+
+d:1147bibl-content-lxi-vv-31-35 rdfs:label "" .
+
+d:1151bibl-content-carezze-amatorie rdfs:label "" .
+
+d:1170bibl-content-inferno-xvii-106-fol-xxix rdfs:label "" .
+
+d:1180bibl-content-iv-44 rdfs:label "" .
+
+<http://icondataset.org/1188bibl-content-10:16> rdfs:label "" .
+
+d:ape rdfs:label "Ape" .
+
+d:avarice rdfs:label "Avarice",
+        "avarice" .
+
+d:bridal-chamber-decoration rdfs:label "bridal chamber decoration" .
+
+d:christ rdfs:label "Christ" .
+
+d:cone-shell rdfs:label "cone shell" .
+
+d:dolphin rdfs:label "dolphin" .
+
+d:fertility rdfs:label "fertility" .
+
+d:fettered-ape rdfs:label "Fettered ape" .
+
+d:fettered-slave rdfs:label "Fettered slave" .
+
+d:fire rdfs:label "fire" .
+
+d:four-rivers-of-hades rdfs:label "four rivers of Hades" .
+
+d:fourfold-aspect-of-life-on-earth-as-a-state-of-actual-suffering rdfs:label "fourfold aspect of life on earth as a state of actual suffering" .
+
+d:lower-soul rdfs:label "lower soul" .
+
+d:mens rdfs:label "mens" .
+
+d:mercury rdfs:label "Mercury" .
+
+d:myrtle rdfs:label "myrtle" .
+
+d:peaceful-landscape-on-the-left rdfs:label "peaceful landscape on the left" .
+
+d:persuasion rdfs:label "persuasion" .
+
+d:pride rdfs:label "Pride",
+        "pride" .
+
+d:purity rdfs:label "purity" .
+
+d:reason rdfs:label "reason" .
+
+d:serpent rdfs:label "serpent" .
+
+d:simple-happiness-of-primitive-civilization rdfs:label "simple happiness of primitive civilization" .
+
+d:threatening-and-wild-landscape-on-the-right rdfs:label "threatening and wild landscape on the right" .
+
+d:venus-coelestis rdfs:label "Venus Coelestis" .
+
+d:virginity rdfs:label "virginity" .
+
+d:weighing-with-balance rdfs:label "weighing with balance" .
+
+d:1147bibl-content crm:P106_is_composed_of d:1147bibl-content-lxi-vv-31-35,
+        d:1147bibl-content-lxvii-v-30-_qui-ipse-sui-gnati-minxerit-in-gremium_ .
+
+d:1147bibl-content-lxvii-v-30-_qui-ipse-sui-gnati-minxerit-in-gremium_ rdfs:label "" .
+
+d:1170bibl-content crm:P106_is_composed_of d:1170bibl-content-inferno-xiv-116-folixxiv,
+        d:1170bibl-content-inferno-xvii-106-fol-xxix .
+
+d:1170bibl-content-inferno-xiv-116-folixxiv rdfs:label "" .
+
+d:attribute-of-wisdom rdfs:label "attribute of wisdom" .
+
+d:four-times-of-day rdfs:label "four Times of Day" .
+
+d:glass-sphere rdfs:label "glass sphere" .
+
+d:love rdfs:label "love" .
+
+d:the-future rdfs:label "the future" .
+
+d:the-past rdfs:label "the past" .
+
+d:the-present rdfs:label "the present" .
+
+d:three-forms-of-time-past-present-future rdfs:label "three forms of time (past, present, future)" .
+
+d:symbolicsimulation rdfs:label "SymbolicSimulation" .
+
+d:allegorical rdfs:label "Allegorical" .
+
+d:1151bibl-content crm:P106_is_composed_of d:1151bibl-content-carezze-amatorie .
+
+d:allusionsimulation rdfs:label "AllusionSimulation" .
+
+d:allegoricalsimulation rdfs:label "AllegoricalSimulation" .
+
+d:symbolic rdfs:label "Symbolic" .
+
+d: rdfs:label "" .
+
