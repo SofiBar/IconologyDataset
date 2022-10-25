@@ -1,0 +1,450 @@
+@prefix cito: <http://purl.org/spar/cito/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix d: <http://icondataset.org/> .
+@prefix icon: <https://w3id.org/icon/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+d:ART1001test-ICREC1 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/roelof-van-straten> ;
+    icon:aboutWorkOfArt d:ART1001test ;
+    icon:recognizedImage d:ART1001test-IMG1 .
+
+d:ART1001test-ICREC2 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/roelof-van-straten> ;
+    icon:aboutWorkOfArt d:ART1001test ;
+    icon:recognizedImage d:ART1001test-IMG2 .
+
+d:ART1001test-ICREC3 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/roelof-van-straten> ;
+    icon:aboutWorkOfArt d:ART1001test ;
+    icon:recognizedImage d:ART1001test-IMG3 .
+
+d:ART1001test-ICREC4 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/roelof-van-straten> ;
+    icon:aboutWorkOfArt d:ART1001test ;
+    icon:recognizedImage d:ART1001test-IMG4 .
+
+d:ART1001test-ICREC5 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/roelof-van-straten> ;
+    icon:aboutWorkOfArt d:ART1001test ;
+    icon:recognizedImage d:ART1001test-IMG5 .
+
+d:ART1001test-ICREC6 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/roelof-van-straten> ;
+    icon:aboutWorkOfArt d:ART1001test ;
+    icon:recognizedImage d:ART1001test-IMG6 .
+
+d:ART1002test-ICREC1 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG1 .
+
+d:ART1002test-ICREC10 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG10 .
+
+d:ART1002test-ICREC11 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG11 .
+
+d:ART1002test-ICREC12 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG12 .
+
+d:ART1002test-ICREC13 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG13 .
+
+d:ART1002test-ICREC14 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG14 .
+
+d:ART1002test-ICREC15 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG15 .
+
+d:ART1002test-ICREC16 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG16 .
+
+d:ART1002test-ICREC17 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG17 .
+
+d:ART1002test-ICREC18 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG18 .
+
+d:ART1002test-ICREC19 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG19 .
+
+d:ART1002test-ICREC2 a icon:IconographicalRecognition ;
+    cito:citesAsEvidence d:1152bibl-content ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG2 .
+
+d:ART1002test-ICREC20 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG20 .
+
+d:ART1002test-ICREC3 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG3 .
+
+d:ART1002test-ICREC4 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG4 .
+
+d:ART1002test-ICREC5 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG5 .
+
+d:ART1002test-ICREC6 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG6 .
+
+d:ART1002test-ICREC7 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG7 .
+
+d:ART1002test-ICREC8 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG8 .
+
+d:ART1002test-ICREC9 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/keith-christiansen> ;
+    icon:aboutWorkOfArt d:ART1002test ;
+    icon:recognizedImage d:ART1002test-IMG9 .
+
+d:ART1009test-ICREC1 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG1 .
+
+d:ART1009test-ICREC12 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG12 .
+
+d:ART1009test-ICREC2 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG2 .
+
+d:ART1009test-ICREC3 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG3 .
+
+d:ART1009test-ICREC4 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG4 .
+
+d:ART1009test-ICREC5 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG5 .
+
+d:ART1009test-ICREC6 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG6 .
+
+d:ART1009test-ICREC7 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG7 .
+
+d:ART1009test-ICREC8 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG8 .
+
+d:ART1009test-ICREC9 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/sofia-baroncini> ;
+    icon:aboutWorkOfArt d:ART1009test ;
+    icon:recognizedImage d:ART1009test-IMG9 .
+
+d:ART1011test-ICREC1 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/irving-lavin> ;
+    icon:aboutWorkOfArt d:ART1011test ;
+    icon:recognizedImage d:ART1011test-IMG1 .
+
+d:ART1011test-ICREC2 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/irving-lavin> ;
+    icon:aboutWorkOfArt d:ART1011test ;
+    icon:recognizedImage d:ART1011test-IMG2 .
+
+d:ART1011test-ICREC3 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/irving-lavin> ;
+    icon:aboutWorkOfArt d:ART1011test ;
+    icon:recognizedImage d:ART1011test-IMG3 .
+
+d:ART1011test-ICREC4 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/irving-lavin> ;
+    icon:aboutWorkOfArt d:ART1011test ;
+    icon:recognizedImage d:ART1011test-IMG4 .
+
+d:ART1011test-ICREC5 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/irving-lavin> ;
+    icon:aboutWorkOfArt d:ART1011test ;
+    icon:recognizedImage d:ART1011test-IMG5 .
+
+d:ART1017test-ICREC1 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG1 .
+
+d:ART1017test-ICREC10 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG10 .
+
+d:ART1017test-ICREC11 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG11 .
+
+d:ART1017test-ICREC12 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG12 .
+
+d:ART1017test-ICREC13 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG13 .
+
+d:ART1017test-ICREC14 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG14 .
+
+d:ART1017test-ICREC15 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG15 .
+
+d:ART1017test-ICREC16 a icon:IconographicalRecognition ;
+    cito:citesAsEvidence <https://wwwwikidataorg/wiki/q18809944> ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG16 .
+
+d:ART1017test-ICREC2 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG2 .
+
+d:ART1017test-ICREC3 a icon:IconographicalRecognition ;
+    cito:citesAsEvidence d:1151bibl-content,
+        d:1151bibl-content-faith-with-_the-world-under-her-feet_ ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG3 .
+
+d:ART1017test-ICREC4 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG4 .
+
+d:ART1017test-ICREC5 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG5 .
+
+d:ART1017test-ICREC6 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG6 .
+
+d:ART1017test-ICREC7 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG7 .
+
+d:ART1017test-ICREC8 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG8 .
+
+d:ART1017test-ICREC9 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/walter-liedtke> ;
+    icon:aboutWorkOfArt d:ART1017test ;
+    icon:recognizedImage d:ART1017test-IMG9 .
+
+d:ART1124-ICREC1 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG1 .
+
+d:ART1124-ICREC2 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG2 .
+
+d:ART1124-ICREC3 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG3 .
+
+d:ART1124-ICREC4 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG4 .
+
+d:ART1124-ICREC5 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG5 .
+
+d:ART1124-ICREC6 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG6 .
+
+d:ART1124-ICREC7 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG7 .
+
+d:ART1124-ICREC8 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG8 .
+
+d:ART1124-ICREC9 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1124 ;
+    icon:recognizedImage d:ART1124-IMG9 .
+
+d:ART1158-ICREC1 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1158 ;
+    icon:recognizedImage d:ART1158-IMG1 .
+
+d:ART1158-ICREC2 a icon:IconographicalRecognition ;
+    crm:P14_carried_out_by <http://icondataset.org/people/erwin-panofsky> ;
+    icon:aboutWorkOfArt d:ART1158 ;
+    icon:recognizedImage d:ART1158-IMG2 .
+
+d:PROD1001test crm:P108_has_produced d:OBJ1001test ;
+    crm:P4_has_time_span d:1664 .
+
+d:PROD1002test crm:P108_has_produced d:OBJ1002test ;
+    crm:P4_has_time_span d:1520 .
+
+d:PROD1009test crm:P108_has_produced d:OBJ1009test ;
+    crm:P4_has_time_span d:1434 .
+
+d:PROD1011test crm:P108_has_produced d:OBJ1011test ;
+    crm:P4_has_time_span d:1563-1566 .
+
+d:PROD1017test crm:P108_has_produced d:OBJ1017test ;
+    crm:P4_has_time_span d:1670-72 .
+
+d:PROD1023bibl crm:P108_has_produced d:1023bibl ;
+    crm:P4_has_time_span d:1100 .
+
+d:PROD1124 crm:P108_has_produced d:OBJ1124 ;
+    crm:P4_has_time_span d:1230 .
+
+d:PROD1126bibl crm:P108_has_produced d:1126bibl ;
+    crm:P4_has_time_span d:1643 .
+
+d:PROD1158 crm:P108_has_produced d:OBJ1158 ;
+    crm:P4_has_time_span d:1342 .
+
+d:1023bibl crm:P128_carries d:1023bibl-content .
+
+d:1100 rdfs:label "1100" .
+
+d:1126bibl crm:P128_carries d:1151bibl-content .
+
+d:1152bibl-content crm:P102_has_title d:de-gli-habiti-antichi-e-moderni-di-diverse-parti-del-mondo-libri-due .
+
+d:1230 rdfs:label "1230" .
+
+d:1342 rdfs:label "1342" .
+
+d:1434 rdfs:label "1434" .
+
+d:1520 rdfs:label "1520" .
+
+d:1563-1566 rdfs:label "1563-1566" .
+
+d:1643 rdfs:label "1643" .
+
+d:1664 rdfs:label "1664" .
+
+d:1670-72 rdfs:label "1670-72" .
+
+d:OBJ1001test crm:P102_has_title d:title-woman-holding-a-balance ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300033799> ;
+    crm:P65_shows_visual_item d:ART1001test .
+
+d:OBJ1002test crm:P102_has_title d:title-venus-and-cupid ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300033799> ;
+    crm:P65_shows_visual_item d:ART1002test .
+
+d:OBJ1009test crm:P102_has_title d:title-the-annunciation ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300033799> ;
+    crm:P65_shows_visual_item d:ART1009test .
+
+d:OBJ1011test crm:P102_has_title d:title-neptune-fountain ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300006179> ;
+    crm:P65_shows_visual_item d:ART1011test .
+
+d:OBJ1017test crm:P102_has_title d:title-allgory-of-catholic-faith ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    crm:P65_shows_visual_item d:ART1017test .
+
+d:OBJ1124 crm:P102_has_title d:title-sisyphus-tantalus-and-ixion ;
+    crm:P65_shows_visual_item d:ART1124 .
+
+d:OBJ1158 crm:P102_has_title d:title-presentation-of-christ ;
+    crm:P65_shows_visual_item d:ART1158 .
+
+d:de-gli-habiti-antichi-e-moderni-di-diverse-parti-del-mondo-libri-due rdfs:label "De gli habiti antichi, e moderni di diverse parti del mondo libri due" .
+
+d:iconologia rdfs:label "Iconologia" .
+
+d:title-allgory-of-catholic-faith rdfs:label "Allgory of Catholic Faith" .
+
+d:title-neptune-fountain rdfs:label "Neptune fountain" .
+
+d:title-presentation-of-christ rdfs:label "Presentation of Christ" .
+
+d:title-sisyphus-tantalus-and-ixion rdfs:label "Sisyphus, Tantalus and Ixion" .
+
+d:title-the-annunciation rdfs:label "The Annunciation" .
+
+d:title-venus-and-cupid rdfs:label "Venus and Cupid" .
+
+d:title-woman-holding-a-balance rdfs:label "Woman Holding a Balance" .
+
+d:1151bibl-content crm:P102_has_title d:iconologia ;
+    crm:P106_is_composed_of d:1151bibl-content-carezze-amatorie,
+        d:1151bibl-content-faith-with-_the-world-under-her-feet_,
+        <http://icondataset.org/1151bibl-content-tempo-n-3:-_huomo-vecchio-alato-il-quale-tiene-un-cerchio-in-mano-e-sta-in-mezzo-duna-ruina-ha-la-bocca-aperta-mostrando-i-denti-li-quali-sieno-del-colore-del-ferro_> .
+
