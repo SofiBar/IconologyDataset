@@ -1,2 +1,2 @@
 # IconologyDataset
-RDF dataset of a selection of Panofsky's iconological studies
+The Iconology dataset is a RDF dataset of a selection of Erwin Panofsky's iconological studies. 
